@@ -1,0 +1,11 @@
+2018: se eliminaron 2 filas duplicadas (['M-2018-05', 'M-2018-18']).
+2018: la fuente no distingue anfitrión del visitante; se asume False (en estos datos el anfitrión siempre figura como equipo local).
+Partido M-2018-23: el marcador y los goles por separado no coinciden; se usó el marcador.
+Partido M-2018-10: grupo inferido (F) a partir de los equipos.
+2022: se eliminaron 3 filas duplicadas (['M-2022-03', 'M-2022-03', 'M-2022-42']).
+2022: la fuente no distingue anfitrión del visitante; se asume False (en estos datos el anfitrión siempre figura como equipo local).
+Partido M-2022-28: el marcador y los goles por separado no coinciden; se usó el marcador.
+Partido M-2022-12: grupo inferido (F) a partir de los equipos.
+2026: se eliminaron 3 filas duplicadas (['M-2026-019', 'M-2026-051', 'M-2026-065']).
+Partido M-2026-046: el marcador y los goles por separado no coinciden; se usó el marcador.
+Partido M-2026-037: grupo inferido (G) a partir de los equipos.
