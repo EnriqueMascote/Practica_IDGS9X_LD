@@ -1,0 +1,51 @@
+ID Partido,Año,Fase,Grupo,Jornada,Fecha,Hora,Equipo Local,Equipo Visitante,Goles Local,Goles Visitante,Marcador,Anfitrión Local,Estadio,Ciudad,Fuente
+M-2018-01,2018,Fase de grupos,Grupo A,1,2018-06-14,18:00,russia,KSA,5 goles,,5-0,Sí,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-02,2018,GROUP STAGE,A,1,15/06/2018,17:00,Egypt,Uruguay,0,1,0–1,0,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+M-2018-03,2018,grupos,group-b,1,06/15/2018,18:00,Morocco,"Iran, I.R.",0,1,0 : 1,FALSE,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+M-2018-04,2018,1ra fase,Grupo B,1,15-06-18,21:00,Portugal,España,3,3,3 x 3,no,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+M-2018-05,2018,Fase de grupos,C,1,"Jun 16, 2018",13:00,France,Australia,2,1,2—1,No,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+M-2018-06,2018,GROUP STAGE,group-d,1,2018-06-16,16:00,Argentina,Iceland,1,1,1-1,0,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-07,2018,grupos,Grupo C,1,16/06/2018,19:00,Peru,Denmark,0,1,0–1,FALSE,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+M-2018-08,2018,1ra fase,D,1,06/16/2018,21:00,Croatia,Nigeria,2,0,2 : 0,no,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+M-2018-09,2018,Fase de grupos,group-e,1,17-06-18,16:00,Costa Rica,Serbia,0,1,0 x 1,No,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+M-2018-10,2018,GROUP STAGE,,1,"Jun 17, 2018",18:00,Germany,Mexico,0,1,0—1,0,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-11,2018,grupos,E,1,2018-06-17,21:00,Brasil,Switzerland,1,1,1-1,FALSE,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+M-2018-12,2018,1ra fase,group-f,1,18/06/2018,15:00,Sweden,Rep. of Korea,1,0,1–0,no,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+M-2018-13,2018,Fase de grupos,Grupo G,1,06/18/2018,18:00,Belgium,Panama,3,0,3 : 0,No,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+M-2018-14,2018,GROUP STAGE,G,1,18-06-18,21:00,Tunisia,England,1 goles,2,1 x 2,0,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+M-2018-15,2018,grupos,group-h,1,"Jun 19, 2018",15:00,Colombia,JAPAN,1,2,1—2,FALSE,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+M-2018-16,2018,1ra fase,Grupo H,1,2018-06-19,18:00,Poland,Senegal,1,2,,no,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-17,2018,Fase de grupos,A,2,19/06/2018,21:00,Russia,Egypt,3,1,3–1,Sí,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+M-2018-18,2018,GROUP STAGE,group-b,2,06/20/2018,15:00,PORTUGAL,Morocco,1,0,1 : 0,0,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-19,2018,grupos,Grupo A,2,20-06-18,18:00,Uruguay,KSA,1,0,1 x 0,FALSE,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+M-2018-20,2018,1ra fase,B,2,"Jun 20, 2018",21:00,Iran,España,0,,0—1,no,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+M-2018-21,2018,Fase de grupos,group-c,2,2018-06-21,16:00,Denmark,australia,1,1,1-1,No,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+M-2018-22,2018,GROUP STAGE,Grupo C,2,21/06/2018,20:00,France,Peru,1,0,1–0,0,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+M-2018-23,2018,grupos,D,2,06/21/2018,21:00,Argentina,Croatia,-1,3,0 : 3,FALSE,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+M-2018-24,2018,1ra fase,group-e,2,22-06-18,15:00,brazil,Costa Rica,2,0,2 x 0,no,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+M-2018-25,2018,Fase de grupos,Grupo D,2,"Jun 22, 2018",18:00,Nigeria,Iceland,2,0,2—0,No,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+M-2018-26,2018,GROUP STAGE,E,2,2018-06-22,20:00,Serbia,Suisse,1,2,1-2,0,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+M-2018-27,2018,grupos,group-g,2,23/06/2018,15:00,Belgium,Tunisia,5 goles,2,5–2,FALSE,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-28,2018,1ra fase,Grupo F,2,06/23/2018,18:00,South Korea,Mexico,1,2,1 : 2,no,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+M-2018-29,2018,Fase de grupos,F,2,23-06-18,21:00,Deutschland,Sweden,2,1,2 x 1,No,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+M-2018-30,2018,GROUP STAGE,group-g,2,"Jun 24, 2018",15:00,England,Panama,6,1,6—1,0,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+M-2018-31,2018,grupos,Grupo H,2,2018-06-24,20:00,Japan,Senegal,2,2,2-2,FALSE,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+M-2018-32,2018,1ra fase,s/d,2,24/06/2018,21:00,Poland,COLOMBIA,0,3,0–3,no,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+M-2018-33,2018,Fase de grupos,group-a,3,06/25/2018,17:00,Saudi-Arabia,Egypt,2,1,2 : 1,No,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+M-2018-34,2018,GROUP STAGE,Grupo A,3,25-06-18,18:00,Uruguay,Russia,3,0,3 x 0,0,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+M-2018-35,2018,grupos,B,3,"Jun 25, 2018",20:00,ESPAÑA,Morocco,2,2,2—2,FALSE,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+M-2018-36,2018,1ra fase,group-b,3,2018-06-25,21:00,"Iran, I.R.",Portugal,1,1,1-1,no,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+M-2018-37,2018,Fase de grupos,Grupo C,3,26/06/2018,17:00,Australia,Peru,0,2,0–2,No,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+M-2018-38,2018,GROUP STAGE,C,3,06/26/2018,17:00,Denmark,France,0,0,0 : 0,0,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-39,2018,grupos,group-d,3,26-06-18,21:00,Iceland,Croatia,1,,1 x 2,FALSE,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+M-2018-40,2018,1ra fase,Grupo D,3,"Jun 26, 2018",21:00,Nigeria,Argentina,1 goles,2,1—2,no,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+M-2018-41,2018,Fase de grupos,F,3,2018-06-27,17:00,Korea Rep.,Germany,2,0,2-0,No,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+M-2018-42,2018,GROUP STAGE,group-f,3,27/06/2018,19:00,México,Sweden,0,3,0–3,0,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+M-2018-43,2018,grupos,Grupo E,3,06/27/2018,21:00,Serbia,Brazil,0,2,0 : 2,FALSE,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+M-2018-44,2018,1ra fase,E,3,27-06-18,21:00,Switzerland,costa rica,2,2,2 x 2,no,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+M-2018-45,2018,Fase de grupos,group-h,3,"Jun 28, 2018",17:00,Japan,Poland,0,1,0—1,No,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+M-2018-46,2018,GROUP STAGE,Grupo H,3,2018-06-28,18:00,Senegal,Colombia,0,1,0-1,0,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+M-2018-47,2018,grupos,G,3,28/06/2018,20:00,england,Belgium,0,1,0–1,FALSE,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+M-2018-48,2018,1ra fase,group-g,3,06/28/2018,21:00,Panama,Tunisia,1,2,1 : 2,no,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+M-2018-05,2018,Fase de grupos,C,1,"Jun 16, 2018",13:00,France,Australia,2,1,2—1,No,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+M-2018-18,2018,GROUP STAGE,group-b,2,06/20/2018,15:00,PORTUGAL,Morocco,1,0,1 : 0,0,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup

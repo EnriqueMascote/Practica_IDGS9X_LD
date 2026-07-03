@@ -1,0 +1,52 @@
+match_id,WorldCup,stage,group_name,match_day,date,local,visitor,home_score,away_score,score_text,home_host,venue,city_name,comentario,source_url
+M-2022-01,2022,group,Group A,1,2022-11-20,Qatar,Ecuador,N/A,2,0 : 2,1,Al Bayt Stadium,Al Khor,ok,https://github.com/jfjelstul/worldcup
+M-2022-02,2022,Group Stage,B,1,21/11/2022,England,IR Iran,6,2,6 x 2,FALSE,Khalifa International Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-03,2022,Fase grupos,Grupo A,1,11/21/2022,Senegal,Netherlands,0,2,0—2,no,Al Thumama Stadium,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-04,2022,group,B,1,21-11-22,United States,Wales,1,1,1-1,No,Ahmad bin Ali Stadium,Al Rayyan,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-05,2022,Group Stage,Group C,1,"Nov 22, 2022",Argentina,KSA,1,2,1–2,0,Lusail Stadium,Lusail,ok,https://github.com/jfjelstul/worldcup
+M-2022-06,2022,Fase grupos,D,1,2022-11-22,Denmark,Tunisia,0,0,0 : 0,FALSE,Education City Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-07,2022,group,Grupo C,1,22/11/2022,México,Poland,0,0,0 x 0,no,Stadium 974,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-08,2022,Group Stage,D,1,11/22/2022,France,Australia,4,1,4—1,No,Al Janoub Stadium,Al Wakrah,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-09,2022,Fase grupos,Group F,1,23-11-22,Morocco,Croatia,0,0,sin dato,0,Al Bayt Stadium,Al Khor,ok,https://github.com/jfjelstul/worldcup
+M-2022-10,2022,group,E,1,"Nov 23, 2022",Deutschland,JAPAN,1,2,1–2,FALSE,Khalifa International Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-11,2022,Group Stage,Grupo E,1,2022-11-23,Spain,Costa Rica,7,0,7 : 0,no,Al Thumama Stadium,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-12,2022,Fase grupos,,1,23/11/2022,Belgium,Canada,1,0,1 x 0,No,Ahmad bin Ali Stadium,Al Rayyan,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-13,2022,group,Group G,1,11/24/2022,SWITZERLAND,Cameroon,N/A,0,1—0,0,Al Janoub Stadium,Al Wakrah,ok,https://github.com/jfjelstul/worldcup
+M-2022-14,2022,Group Stage,H,1,24-11-22,Uruguay,Korea Republic,0,0,0-0,FALSE,Education City Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-15,2022,Fase grupos,Grupo H,1,"Nov 24, 2022",Portugal,Ghana,3,2,3–2,no,Stadium 974,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-16,2022,group,G,1,2022-11-24,Brasil,serbia,2,0,2 : 0,No,Lusail Stadium,Lusail,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-17,2022,Group Stage,Group B,2,25/11/2022,Wales,IR Iran,0,2,0 x 2,0,Ahmad bin Ali Stadium,Al Rayyan,ok,https://github.com/jfjelstul/worldcup
+M-2022-18,2022,Fase grupos,A,2,11/25/2022,Qatar,Senegal,1,3,1—3,TRUE,Al Thumama Stadium,Doha,,https://github.com/jfjelstul/worldcup
+M-2022-19,2022,group,Grupo A,2,25-11-22,the netherlands,Ecuador,1,1,1-1,no,Khalifa International Stadium,Al Rayyan,revisar,https://github.com/jfjelstul/worldcup
+M-2022-20,2022,Group Stage,B,2,"Nov 25, 2022",England,USA,0,0,0–0,No,Al Bayt Stadium,Al Khor,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-21,2022,Fase grupos,Group D,2,2022-11-26,Tunisia,Australia,0,1,0 : 1,0,Al Janoub Stadium,Al Wakrah,ok,https://github.com/jfjelstul/worldcup
+M-2022-22,2022,group,C,2,26/11/2022,Poland,Saudi-Arabia,2,0,2 x 0,FALSE,Education City Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-23,2022,Group Stage,Grupo D,2,11/26/2022,France,Denmark,2,1,2—1,no,Stadium 974,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-24,2022,Fase grupos,C,2,26-11-22,Argentina,México,2,0,2-0,No,Lusail Stadium,Lusail,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-25,2022,group,Group E,2,"Nov 27, 2022",Japan,Costa Rica,N/A,1,0–1,0,Ahmad bin Ali Stadium,Al Rayyan,ok,https://github.com/jfjelstul/worldcup
+M-2022-26,2022,Group Stage,F,2,2022-11-27,Belgium,Morocco,0,2,0 : 2,FALSE,Al Thumama Stadium,Doha,,https://github.com/jfjelstul/worldcup
+M-2022-27,2022,Fase grupos,Grupo F,2,27/11/2022,Croatia,CANADA,4,1,4 x 1,no,Khalifa International Stadium,Al Rayyan,revisar,https://github.com/jfjelstul/worldcup
+M-2022-28,2022,group,E,2,11/27/2022,España,Germany,1,-2,1—1,No,Al Bayt Stadium,Al Khor,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-29,2022,Group Stage,Group G,2,28-11-22,Cameroon,Serbia,3,3,3-3,0,Al Janoub Stadium,Al Wakrah,ok,https://github.com/jfjelstul/worldcup
+M-2022-30,2022,Fase grupos,H,2,"Nov 28, 2022",REP. OF KOREA,Ghana,2,3,2–3,FALSE,Education City Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-31,2022,group,Grupo G,2,,Brazil,Suisse,1,0,1 : 0,no,Stadium 974,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-32,2022,Group Stage,H,2,28/11/2022,Portugal,Uruguay,2,0,2 x 0,No,Lusail Stadium,Lusail,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-33,2022,Fase grupos,Group A,3,11/29/2022,Ecuador,Senegal,1,2,1—2,0,Khalifa International Stadium,Al Rayyan,ok,https://github.com/jfjelstul/worldcup
+M-2022-34,2022,group,A,3,29-11-22,The Netherlands,Qatar,2,0,2-0,FALSE,Al Bayt Stadium,Al Khor,,https://github.com/jfjelstul/worldcup
+M-2022-35,2022,Group Stage,Grupo B,3,"Nov 29, 2022",IR Iran,USA,0,1,0–1,no,Al Thumama Stadium,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-36,2022,Fase grupos,B,3,2022-11-29,Wales,England,0,3,0 : 3,No,Ahmad bin Ali Stadium,Al Rayyan,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-37,2022,group,Group D,3,30/11/2022,Australia,Denmark,N/A,0,1 x 0,0,Al Janoub Stadium,Al Wakrah,ok,https://github.com/jfjelstul/worldcup
+M-2022-38,2022,Group Stage,D,3,11/30/2022,Tunisia,France,1,0,1—0,FALSE,Education City Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-39,2022,Fase grupos,Grupo C,3,30-11-22,Poland,argentina,0,2,0-2,no,Stadium 974,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-40,2022,group,C,3,"Nov 30, 2022",Saudi-Arabia,México,1,2,1–2,No,Lusail Stadium,Lusail,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-41,2022,Group Stage,Group F,3,2022-12-01,Canada,Morocco,1,2,1 : 2,0,Al Thumama Stadium,Doha,ok,https://github.com/jfjelstul/worldcup
+M-2022-42,2022,Fase grupos,F,3,01/12/2022,croatia,Belgium,0,0,0 x 0,FALSE,Ahmad bin Ali Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-43,2022,group,Grupo E,3,12/01/2022,Costa Rica,Deutschland,2,4,2—4,no,Al Bayt Stadium,Al Khor,revisar,https://github.com/jfjelstul/worldcup
+M-2022-44,2022,Group Stage,E,3,01-12-22,Japan,SPAIN,2,1,2-1,No,Khalifa International Stadium,Al Rayyan,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-45,2022,Fase grupos,Group H,3,"Dec 02, 2022",Ghana,Uruguay,0,2,0–2,0,Al Janoub Stadium,Al Wakrah,ok,https://github.com/jfjelstul/worldcup
+M-2022-46,2022,group,H,3,2022-12-02,Rep. of Korea,Portugal,2,1,2 : 1,FALSE,Education City Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
+M-2022-47,2022,Group Stage,Grupo G,3,02/12/2022,CAMEROON,Brasil,1,0,1 x 0,no,Lusail Stadium,Lusail,revisar,https://github.com/jfjelstul/worldcup
+M-2022-48,2022,Fase grupos,G,3,12/02/2022,Serbia,Switzerland,2,3,2—3,No,Stadium 974,Doha,dato importado,https://github.com/jfjelstul/worldcup
+M-2022-03,2022,Fase grupos,Grupo A,1,11/21/2022,Senegal,Netherlands,0,2,0—2,no,Al Thumama Stadium,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-03,2022,Fase grupos,Grupo A,1,11/21/2022,Senegal,Netherlands,0,2,0—2,no,Al Thumama Stadium,Doha,revisar,https://github.com/jfjelstul/worldcup
+M-2022-42,2022,Fase grupos,F,3,01/12/2022,croatia,Belgium,0,0,0 x 0,FALSE,Ahmad bin Ali Stadium,Al Rayyan,,https://github.com/jfjelstul/worldcup
