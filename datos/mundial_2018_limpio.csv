@@ -1,0 +1,49 @@
+﻿partido_id,mundial,fase,grupo,jornada,fecha,equipo_local,equipo_visitante,goles_local,goles_visitante,marcador,local_es_anfitrion,visitante_es_anfitrion,fuente,goles_totales,diferencia_goles,resultado_local
+M-2018-01,2018,Fase de grupos,A,1,2018-06-14,Russia,Saudi Arabia,5,0,5-0,True,False,https://github.com/jfjelstul/worldcup,5,5,Gana
+M-2018-02,2018,Fase de grupos,A,1,2018-06-15,Egypt,Uruguay,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-03,2018,Fase de grupos,B,1,2018-06-15,Morocco,Iran,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-04,2018,Fase de grupos,B,1,2018-06-15,Portugal,Spain,3,3,3-3,False,False,https://github.com/jfjelstul/worldcup,6,0,Empata
+M-2018-05,2018,Fase de grupos,C,1,2018-06-16,France,Australia,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana
+M-2018-06,2018,Fase de grupos,D,1,2018-06-16,Argentina,Iceland,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata
+M-2018-07,2018,Fase de grupos,C,1,2018-06-16,Peru,Denmark,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-08,2018,Fase de grupos,D,1,2018-06-16,Croatia,Nigeria,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana
+M-2018-09,2018,Fase de grupos,E,1,2018-06-17,Costa Rica,Serbia,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-10,2018,Fase de grupos,F,1,2018-06-17,Germany,Mexico,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-11,2018,Fase de grupos,E,1,2018-06-17,Brazil,Switzerland,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata
+M-2018-12,2018,Fase de grupos,F,1,2018-06-18,Sweden,South Korea,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana
+M-2018-13,2018,Fase de grupos,G,1,2018-06-18,Belgium,Panama,3,0,3-0,False,False,https://github.com/jfjelstul/worldcup,3,3,Gana
+M-2018-14,2018,Fase de grupos,G,1,2018-06-18,Tunisia,England,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-15,2018,Fase de grupos,H,1,2018-06-19,Colombia,Japan,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-16,2018,Fase de grupos,H,1,2018-06-19,Poland,Senegal,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-17,2018,Fase de grupos,A,2,2018-06-19,Russia,Egypt,3,1,3-1,True,False,https://github.com/jfjelstul/worldcup,4,2,Gana
+M-2018-18,2018,Fase de grupos,B,2,2018-06-20,Portugal,Morocco,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana
+M-2018-19,2018,Fase de grupos,A,2,2018-06-20,Uruguay,Saudi Arabia,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana
+M-2018-20,2018,Fase de grupos,B,2,2018-06-20,Iran,Spain,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-21,2018,Fase de grupos,C,2,2018-06-21,Denmark,Australia,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata
+M-2018-22,2018,Fase de grupos,C,2,2018-06-21,France,Peru,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana
+M-2018-23,2018,Fase de grupos,D,2,2018-06-21,Argentina,Croatia,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde
+M-2018-24,2018,Fase de grupos,E,2,2018-06-22,Brazil,Costa Rica,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana
+M-2018-25,2018,Fase de grupos,D,2,2018-06-22,Nigeria,Iceland,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana
+M-2018-26,2018,Fase de grupos,E,2,2018-06-22,Serbia,Switzerland,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-27,2018,Fase de grupos,G,2,2018-06-23,Belgium,Tunisia,5,2,5-2,False,False,https://github.com/jfjelstul/worldcup,7,3,Gana
+M-2018-28,2018,Fase de grupos,F,2,2018-06-23,South Korea,Mexico,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-29,2018,Fase de grupos,F,2,2018-06-23,Germany,Sweden,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana
+M-2018-30,2018,Fase de grupos,G,2,2018-06-24,England,Panama,6,1,6-1,False,False,https://github.com/jfjelstul/worldcup,7,5,Gana
+M-2018-31,2018,Fase de grupos,H,2,2018-06-24,Japan,Senegal,2,2,2-2,False,False,https://github.com/jfjelstul/worldcup,4,0,Empata
+M-2018-32,2018,Fase de grupos,H,2,2018-06-24,Poland,Colombia,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde
+M-2018-33,2018,Fase de grupos,A,3,2018-06-25,Saudi Arabia,Egypt,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana
+M-2018-34,2018,Fase de grupos,A,3,2018-06-25,Uruguay,Russia,3,0,3-0,False,False,https://github.com/jfjelstul/worldcup,3,3,Gana
+M-2018-35,2018,Fase de grupos,B,3,2018-06-25,Spain,Morocco,2,2,2-2,False,False,https://github.com/jfjelstul/worldcup,4,0,Empata
+M-2018-36,2018,Fase de grupos,B,3,2018-06-25,Iran,Portugal,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata
+M-2018-37,2018,Fase de grupos,C,3,2018-06-26,Australia,Peru,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde
+M-2018-38,2018,Fase de grupos,C,3,2018-06-26,Denmark,France,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata
+M-2018-39,2018,Fase de grupos,D,3,2018-06-26,Iceland,Croatia,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-40,2018,Fase de grupos,D,3,2018-06-26,Nigeria,Argentina,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
+M-2018-41,2018,Fase de grupos,F,3,2018-06-27,South Korea,Germany,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana
+M-2018-42,2018,Fase de grupos,F,3,2018-06-27,Mexico,Sweden,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde
+M-2018-43,2018,Fase de grupos,E,3,2018-06-27,Serbia,Brazil,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde
+M-2018-44,2018,Fase de grupos,E,3,2018-06-27,Switzerland,Costa Rica,2,2,2-2,False,False,https://github.com/jfjelstul/worldcup,4,0,Empata
+M-2018-45,2018,Fase de grupos,H,3,2018-06-28,Japan,Poland,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-46,2018,Fase de grupos,H,3,2018-06-28,Senegal,Colombia,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-47,2018,Fase de grupos,G,3,2018-06-28,England,Belgium,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde
+M-2018-48,2018,Fase de grupos,G,3,2018-06-28,Panama,Tunisia,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde
