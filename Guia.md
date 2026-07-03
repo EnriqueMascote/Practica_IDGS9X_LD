@@ -133,6 +133,7 @@ Analiza:
 Pregunta central:
 
 > ¿Cambian las conclusiones cuando se comparan totales en lugar de tasas?
+Sí. Comparando totales, 2026 parece muy superior en goles y empates. Comparando tasas (goles/partido, % empates), las diferencias entre los tres mundiales son moderadas. La conclusión correcta es que 2026 tiene ligeramente más goles por partido y más empates proporcionalmente, no una diferencia dramática como sugieren los totales crudos.
 
 Crea al menos dos gráficos:
 
