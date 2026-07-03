@@ -1,0 +1,169 @@
+﻿partido_id,mundial,fase,grupo,jornada,fecha,equipo_local,equipo_visitante,goles_local,goles_visitante,marcador,local_es_anfitrion,visitante_es_anfitrion,fuente,goles_totales,diferencia_goles,resultado_local,puntos_local
+M-2018-01,2018,Fase de grupos,A,1,2018-06-14,Russia,Saudi Arabia,5,0,5-0,True,False,https://github.com/jfjelstul/worldcup,5,5,Gana,3
+M-2018-02,2018,Fase de grupos,A,1,2018-06-15,Egypt,Uruguay,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-03,2018,Fase de grupos,B,1,2018-06-15,Morocco,Iran,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-04,2018,Fase de grupos,B,1,2018-06-15,Portugal,Spain,3,3,3-3,False,False,https://github.com/jfjelstul/worldcup,6,0,Empata,1
+M-2018-05,2018,Fase de grupos,C,1,2018-06-16,France,Australia,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana,3
+M-2018-06,2018,Fase de grupos,D,1,2018-06-16,Argentina,Iceland,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2018-07,2018,Fase de grupos,C,1,2018-06-16,Peru,Denmark,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-08,2018,Fase de grupos,D,1,2018-06-16,Croatia,Nigeria,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2018-09,2018,Fase de grupos,E,1,2018-06-17,Costa Rica,Serbia,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-10,2018,Fase de grupos,F,1,2018-06-17,Germany,Mexico,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-11,2018,Fase de grupos,E,1,2018-06-17,Brazil,Switzerland,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2018-12,2018,Fase de grupos,F,1,2018-06-18,Sweden,South Korea,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2018-13,2018,Fase de grupos,G,1,2018-06-18,Belgium,Panama,3,0,3-0,False,False,https://github.com/jfjelstul/worldcup,3,3,Gana,3
+M-2018-14,2018,Fase de grupos,G,1,2018-06-18,Tunisia,England,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-15,2018,Fase de grupos,H,1,2018-06-19,Colombia,Japan,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-16,2018,Fase de grupos,H,1,2018-06-19,Poland,Senegal,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-17,2018,Fase de grupos,A,2,2018-06-19,Russia,Egypt,3,1,3-1,True,False,https://github.com/jfjelstul/worldcup,4,2,Gana,3
+M-2018-18,2018,Fase de grupos,B,2,2018-06-20,Portugal,Morocco,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2018-19,2018,Fase de grupos,A,2,2018-06-20,Uruguay,Saudi Arabia,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2018-20,2018,Fase de grupos,B,2,2018-06-20,Iran,Spain,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-21,2018,Fase de grupos,C,2,2018-06-21,Denmark,Australia,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2018-22,2018,Fase de grupos,C,2,2018-06-21,France,Peru,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2018-23,2018,Fase de grupos,D,2,2018-06-21,Argentina,Croatia,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde,0
+M-2018-24,2018,Fase de grupos,E,2,2018-06-22,Brazil,Costa Rica,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2018-25,2018,Fase de grupos,D,2,2018-06-22,Nigeria,Iceland,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2018-26,2018,Fase de grupos,E,2,2018-06-22,Serbia,Switzerland,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-27,2018,Fase de grupos,G,2,2018-06-23,Belgium,Tunisia,5,2,5-2,False,False,https://github.com/jfjelstul/worldcup,7,3,Gana,3
+M-2018-28,2018,Fase de grupos,F,2,2018-06-23,South Korea,Mexico,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-29,2018,Fase de grupos,F,2,2018-06-23,Germany,Sweden,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana,3
+M-2018-30,2018,Fase de grupos,G,2,2018-06-24,England,Panama,6,1,6-1,False,False,https://github.com/jfjelstul/worldcup,7,5,Gana,3
+M-2018-31,2018,Fase de grupos,H,2,2018-06-24,Japan,Senegal,2,2,2-2,False,False,https://github.com/jfjelstul/worldcup,4,0,Empata,1
+M-2018-32,2018,Fase de grupos,H,2,2018-06-24,Poland,Colombia,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde,0
+M-2018-33,2018,Fase de grupos,A,3,2018-06-25,Saudi Arabia,Egypt,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana,3
+M-2018-34,2018,Fase de grupos,A,3,2018-06-25,Uruguay,Russia,3,0,3-0,False,False,https://github.com/jfjelstul/worldcup,3,3,Gana,3
+M-2018-35,2018,Fase de grupos,B,3,2018-06-25,Spain,Morocco,2,2,2-2,False,False,https://github.com/jfjelstul/worldcup,4,0,Empata,1
+M-2018-36,2018,Fase de grupos,B,3,2018-06-25,Iran,Portugal,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2018-37,2018,Fase de grupos,C,3,2018-06-26,Australia,Peru,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2018-38,2018,Fase de grupos,C,3,2018-06-26,Denmark,France,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2018-39,2018,Fase de grupos,D,3,2018-06-26,Iceland,Croatia,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-40,2018,Fase de grupos,D,3,2018-06-26,Nigeria,Argentina,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2018-41,2018,Fase de grupos,F,3,2018-06-27,South Korea,Germany,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2018-42,2018,Fase de grupos,F,3,2018-06-27,Mexico,Sweden,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde,0
+M-2018-43,2018,Fase de grupos,E,3,2018-06-27,Serbia,Brazil,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2018-44,2018,Fase de grupos,E,3,2018-06-27,Switzerland,Costa Rica,2,2,2-2,False,False,https://github.com/jfjelstul/worldcup,4,0,Empata,1
+M-2018-45,2018,Fase de grupos,H,3,2018-06-28,Japan,Poland,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-46,2018,Fase de grupos,H,3,2018-06-28,Senegal,Colombia,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-47,2018,Fase de grupos,G,3,2018-06-28,England,Belgium,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2018-48,2018,Fase de grupos,G,3,2018-06-28,Panama,Tunisia,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2022-01,2022,Fase de grupos,A,1,2022-11-20,Qatar,Ecuador,0,2,0-2,True,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2022-02,2022,Fase de grupos,B,1,2022-11-21,England,Iran,6,2,6-2,False,False,https://github.com/jfjelstul/worldcup,8,4,Gana,3
+M-2022-03,2022,Fase de grupos,A,1,2022-11-21,Senegal,Netherlands,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2022-04,2022,Fase de grupos,B,1,2022-11-21,United States,Wales,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2022-05,2022,Fase de grupos,C,1,2022-11-22,Argentina,Saudi Arabia,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2022-06,2022,Fase de grupos,D,1,2022-11-22,Denmark,Tunisia,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2022-07,2022,Fase de grupos,C,1,2022-11-22,Mexico,Poland,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2022-08,2022,Fase de grupos,D,1,2022-11-22,France,Australia,4,1,4-1,False,False,https://github.com/jfjelstul/worldcup,5,3,Gana,3
+M-2022-09,2022,Fase de grupos,F,1,2022-11-23,Morocco,Croatia,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2022-10,2022,Fase de grupos,E,1,2022-11-23,Germany,Japan,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2022-11,2022,Fase de grupos,E,1,2022-11-23,Spain,Costa Rica,7,0,7-0,False,False,https://github.com/jfjelstul/worldcup,7,7,Gana,3
+M-2022-12,2022,Fase de grupos,F,1,2022-11-23,Belgium,Canada,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2022-13,2022,Fase de grupos,G,1,2022-11-24,Switzerland,Cameroon,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2022-14,2022,Fase de grupos,H,1,2022-11-24,Uruguay,South Korea,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2022-15,2022,Fase de grupos,H,1,2022-11-24,Portugal,Ghana,3,2,3-2,False,False,https://github.com/jfjelstul/worldcup,5,1,Gana,3
+M-2022-16,2022,Fase de grupos,G,1,2022-11-24,Brazil,Serbia,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2022-17,2022,Fase de grupos,B,2,2022-11-25,Wales,Iran,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2022-18,2022,Fase de grupos,A,2,2022-11-25,Qatar,Senegal,1,3,1-3,True,False,https://github.com/jfjelstul/worldcup,4,-2,Pierde,0
+M-2022-19,2022,Fase de grupos,A,2,2022-11-25,Netherlands,Ecuador,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2022-20,2022,Fase de grupos,B,2,2022-11-25,England,United States,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2022-21,2022,Fase de grupos,D,2,2022-11-26,Tunisia,Australia,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2022-22,2022,Fase de grupos,C,2,2022-11-26,Poland,Saudi Arabia,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2022-23,2022,Fase de grupos,D,2,2022-11-26,France,Denmark,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana,3
+M-2022-24,2022,Fase de grupos,C,2,2022-11-26,Argentina,Mexico,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2022-25,2022,Fase de grupos,E,2,2022-11-27,Japan,Costa Rica,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2022-26,2022,Fase de grupos,F,2,2022-11-27,Belgium,Morocco,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2022-27,2022,Fase de grupos,F,2,2022-11-27,Croatia,Canada,4,1,4-1,False,False,https://github.com/jfjelstul/worldcup,5,3,Gana,3
+M-2022-28,2022,Fase de grupos,E,2,2022-11-27,Spain,Germany,1,1,1-1,False,False,https://github.com/jfjelstul/worldcup,2,0,Empata,1
+M-2022-29,2022,Fase de grupos,G,2,2022-11-28,Cameroon,Serbia,3,3,3-3,False,False,https://github.com/jfjelstul/worldcup,6,0,Empata,1
+M-2022-30,2022,Fase de grupos,H,2,2022-11-28,South Korea,Ghana,2,3,2-3,False,False,https://github.com/jfjelstul/worldcup,5,-1,Pierde,0
+M-2022-32,2022,Fase de grupos,H,2,2022-11-28,Portugal,Uruguay,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2022-31,2022,Fase de grupos,G,2,,Brazil,Switzerland,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2022-33,2022,Fase de grupos,A,3,2022-11-29,Ecuador,Senegal,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2022-34,2022,Fase de grupos,A,3,2022-11-29,Netherlands,Qatar,2,0,2-0,False,False,https://github.com/jfjelstul/worldcup,2,2,Gana,3
+M-2022-35,2022,Fase de grupos,B,3,2022-11-29,Iran,United States,0,1,0-1,False,False,https://github.com/jfjelstul/worldcup,1,-1,Pierde,0
+M-2022-36,2022,Fase de grupos,B,3,2022-11-29,Wales,England,0,3,0-3,False,False,https://github.com/jfjelstul/worldcup,3,-3,Pierde,0
+M-2022-37,2022,Fase de grupos,D,3,2022-11-30,Australia,Denmark,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2022-38,2022,Fase de grupos,D,3,2022-11-30,Tunisia,France,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2022-39,2022,Fase de grupos,C,3,2022-11-30,Poland,Argentina,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2022-40,2022,Fase de grupos,C,3,2022-11-30,Saudi Arabia,Mexico,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2022-41,2022,Fase de grupos,F,3,2022-12-01,Canada,Morocco,1,2,1-2,False,False,https://github.com/jfjelstul/worldcup,3,-1,Pierde,0
+M-2022-42,2022,Fase de grupos,F,3,2022-12-01,Croatia,Belgium,0,0,0-0,False,False,https://github.com/jfjelstul/worldcup,0,0,Empata,1
+M-2022-43,2022,Fase de grupos,E,3,2022-12-01,Costa Rica,Germany,2,4,2-4,False,False,https://github.com/jfjelstul/worldcup,6,-2,Pierde,0
+M-2022-44,2022,Fase de grupos,E,3,2022-12-01,Japan,Spain,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana,3
+M-2022-45,2022,Fase de grupos,H,3,2022-12-02,Ghana,Uruguay,0,2,0-2,False,False,https://github.com/jfjelstul/worldcup,2,-2,Pierde,0
+M-2022-46,2022,Fase de grupos,H,3,2022-12-02,South Korea,Portugal,2,1,2-1,False,False,https://github.com/jfjelstul/worldcup,3,1,Gana,3
+M-2022-47,2022,Fase de grupos,G,3,2022-12-02,Cameroon,Brazil,1,0,1-0,False,False,https://github.com/jfjelstul/worldcup,1,1,Gana,3
+M-2022-48,2022,Fase de grupos,G,3,2022-12-02,Serbia,Switzerland,2,3,2-3,False,False,https://github.com/jfjelstul/worldcup,5,-1,Pierde,0
+M-2026-001,2026,Fase de grupos,A,1,2026-06-11,Mexico,South Africa,2,0,2-0,True,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A,2,2,Gana,3
+M-2026-002,2026,Fase de grupos,A,1,2026-06-12,South Korea,Czechia,2,1,2-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A,3,1,Gana,3
+M-2026-007,2026,Fase de grupos,B,1,2026-06-12,Canada,Bosnia and Herzegovina,1,1,1-1,True,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B,2,0,Empata,1
+M-2026-008,2026,Fase de grupos,B,1,2026-06-13,Qatar,Switzerland,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B,2,0,Empata,1
+M-2026-013,2026,Fase de grupos,C,1,2026-06-13,Brazil,Morocco,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C,2,0,Empata,1
+M-2026-014,2026,Fase de grupos,C,1,2026-06-13,Haiti,Scotland,0,1,0-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C,1,-1,Pierde,0
+M-2026-019,2026,Fase de grupos,D,1,2026-06-13,United States,Paraguay,4,1,4-1,True,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D,5,3,Gana,3
+M-2026-020,2026,Fase de grupos,D,1,2026-06-14,Australia,Turkey,2,0,2-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D,2,2,Gana,3
+M-2026-025,2026,Fase de grupos,E,1,2026-06-14,Germany,Curacao,7,1,7-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E,8,6,Gana,3
+M-2026-026,2026,Fase de grupos,E,1,2026-06-14,Ivory Coast,Ecuador,1,0,1-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E,1,1,Gana,3
+M-2026-031,2026,Fase de grupos,F,1,2026-06-14,Netherlands,Japan,2,2,2-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F,4,0,Empata,1
+M-2026-032,2026,Fase de grupos,F,1,2026-06-15,Sweden,Tunisia,5,1,5-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F,6,4,Gana,3
+M-2026-037,2026,Fase de grupos,G,1,2026-06-15,Belgium,Egypt,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G,2,0,Empata,1
+M-2026-038,2026,Fase de grupos,G,1,2026-06-15,Iran,New Zealand,2,2,2-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G,4,0,Empata,1
+M-2026-043,2026,Fase de grupos,H,1,2026-06-15,Spain,Cape Verde,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H,0,0,Empata,1
+M-2026-044,2026,Fase de grupos,H,1,2026-06-15,Saudi Arabia,Uruguay,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H,2,0,Empata,1
+M-2026-049,2026,Fase de grupos,I,1,2026-06-16,France,Senegal,3,1,3-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I,4,2,Gana,3
+M-2026-050,2026,Fase de grupos,I,1,2026-06-16,Iraq,Norway,1,4,1-4,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I,5,-3,Pierde,0
+M-2026-055,2026,Fase de grupos,J,1,2026-06-16,Argentina,Algeria,3,0,3-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J,3,3,Gana,3
+M-2026-056,2026,Fase de grupos,J,1,2026-06-17,Austria,Jordan,3,1,3-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J,4,2,Gana,3
+M-2026-061,2026,Fase de grupos,K,1,2026-06-17,Portugal,DR Congo,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K,2,0,Empata,1
+M-2026-062,2026,Fase de grupos,K,1,2026-06-17,Uzbekistan,Colombia,1,3,1-3,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K,4,-2,Pierde,0
+M-2026-067,2026,Fase de grupos,L,1,2026-06-17,England,Croatia,4,2,4-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L,6,2,Gana,3
+M-2026-068,2026,Fase de grupos,L,1,2026-06-18,Ghana,Panama,1,0,1-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L,1,1,Gana,3
+M-2026-003,2026,Fase de grupos,A,2,2026-06-18,Czechia,South Africa,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A,2,0,Empata,1
+M-2026-004,2026,Fase de grupos,A,2,2026-06-18,Mexico,South Korea,1,0,1-0,True,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A,1,1,Gana,3
+M-2026-009,2026,Fase de grupos,B,2,2026-06-18,Switzerland,Bosnia and Herzegovina,4,1,4-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B,5,3,Gana,3
+M-2026-010,2026,Fase de grupos,B,2,2026-06-18,Canada,Qatar,6,0,6-0,True,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B,6,6,Gana,3
+M-2026-015,2026,Fase de grupos,C,2,2026-06-19,Scotland,Morocco,0,1,0-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C,1,-1,Pierde,0
+M-2026-016,2026,Fase de grupos,C,2,2026-06-19,Brazil,Haiti,3,0,3-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C,3,3,Gana,3
+M-2026-021,2026,Fase de grupos,D,2,2026-06-19,United States,Australia,2,0,2-0,True,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D,2,2,Gana,3
+M-2026-022,2026,Fase de grupos,D,2,2026-06-20,Turkey,Paraguay,0,1,0-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D,1,-1,Pierde,0
+M-2026-027,2026,Fase de grupos,E,2,2026-06-20,Germany,Ivory Coast,2,1,2-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E,3,1,Gana,3
+M-2026-028,2026,Fase de grupos,E,2,2026-06-20,Ecuador,Curacao,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E,0,0,Empata,1
+M-2026-033,2026,Fase de grupos,F,2,2026-06-20,Netherlands,Sweden,5,1,5-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F,6,4,Gana,3
+M-2026-034,2026,Fase de grupos,F,2,2026-06-20,Tunisia,Japan,0,4,0-4,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F,4,-4,Pierde,0
+M-2026-039,2026,Fase de grupos,G,2,2026-06-21,Belgium,Iran,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G,0,0,Empata,1
+M-2026-040,2026,Fase de grupos,G,2,2026-06-21,New Zealand,Egypt,1,3,1-3,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G,4,-2,Pierde,0
+M-2026-045,2026,Fase de grupos,H,2,2026-06-21,Spain,Saudi Arabia,4,0,4-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H,4,4,Gana,3
+M-2026-046,2026,Fase de grupos,H,2,2026-06-21,Uruguay,Cape Verde,2,2,2-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H,4,0,Empata,1
+M-2026-051,2026,Fase de grupos,I,2,2026-06-22,France,Iraq,3,0,3-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I,3,3,Gana,3
+M-2026-052,2026,Fase de grupos,I,2,2026-06-22,Norway,Senegal,3,2,3-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I,5,1,Gana,3
+M-2026-057,2026,Fase de grupos,J,2,2026-06-22,Argentina,Austria,2,0,2-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J,2,2,Gana,3
+M-2026-058,2026,Fase de grupos,J,2,2026-06-22,Jordan,Algeria,1,2,1-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J,3,-1,Pierde,0
+M-2026-063,2026,Fase de grupos,K,2,2026-06-23,Portugal,Uzbekistan,5,0,5-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K,5,5,Gana,3
+M-2026-064,2026,Fase de grupos,K,2,2026-06-23,Colombia,DR Congo,1,0,1-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K,1,1,Gana,3
+M-2026-069,2026,Fase de grupos,L,2,2026-06-23,England,Ghana,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L,0,0,Empata,1
+M-2026-070,2026,Fase de grupos,L,2,2026-06-23,Panama,Croatia,0,1,0-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L,1,-1,Pierde,0
+M-2026-005,2026,Fase de grupos,A,3,2026-06-24,Czechia,Mexico,0,3,0-3,False,True,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A,3,-3,Pierde,0
+M-2026-006,2026,Fase de grupos,A,3,2026-06-24,South Africa,South Korea,1,0,1-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A,1,1,Gana,3
+M-2026-011,2026,Fase de grupos,B,3,2026-06-24,Switzerland,Canada,2,1,2-1,False,True,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B,3,1,Gana,3
+M-2026-012,2026,Fase de grupos,B,3,2026-06-24,Bosnia and Herzegovina,Qatar,3,1,3-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B,4,2,Gana,3
+M-2026-017,2026,Fase de grupos,C,3,2026-06-25,Scotland,Brazil,0,3,0-3,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C,3,-3,Pierde,0
+M-2026-018,2026,Fase de grupos,C,3,2026-06-25,Morocco,Haiti,4,2,4-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C,6,2,Gana,3
+M-2026-023,2026,Fase de grupos,D,3,2026-06-25,Turkey,United States,3,2,3-2,False,True,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D,5,1,Gana,3
+M-2026-029,2026,Fase de grupos,E,3,2026-06-25,Curacao,Ivory Coast,0,2,0-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E,2,-2,Pierde,0
+M-2026-030,2026,Fase de grupos,E,3,2026-06-25,Ecuador,Germany,2,1,2-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E,3,1,Gana,3
+M-2026-035,2026,Fase de grupos,F,3,2026-06-26,Japan,Sweden,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F,2,0,Empata,1
+M-2026-036,2026,Fase de grupos,F,3,2026-06-26,Tunisia,Netherlands,1,3,1-3,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F,4,-2,Pierde,0
+M-2026-041,2026,Fase de grupos,G,3,2026-06-26,Egypt,Iran,1,1,1-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G,2,0,Empata,1
+M-2026-042,2026,Fase de grupos,G,3,2026-06-26,New Zealand,Belgium,1,5,1-5,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G,6,-4,Pierde,0
+M-2026-047,2026,Fase de grupos,H,3,2026-06-26,Cape Verde,Saudi Arabia,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H,0,0,Empata,1
+M-2026-048,2026,Fase de grupos,H,3,2026-06-26,Uruguay,Spain,0,1,0-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H,1,-1,Pierde,0
+M-2026-053,2026,Fase de grupos,I,3,2026-06-26,Norway,France,1,4,1-4,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I,5,-3,Pierde,0
+M-2026-054,2026,Fase de grupos,I,3,2026-06-26,Senegal,Iraq,5,0,5-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I,5,5,Gana,3
+M-2026-059,2026,Fase de grupos,J,3,2026-06-27,Algeria,Austria,3,3,3-3,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J,6,0,Empata,1
+M-2026-060,2026,Fase de grupos,J,3,2026-06-27,Jordan,Argentina,1,3,1-3,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J,4,-2,Pierde,0
+M-2026-065,2026,Fase de grupos,K,3,2026-06-27,Colombia,Portugal,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K,0,0,Empata,1
+M-2026-066,2026,Fase de grupos,K,3,2026-06-27,DR Congo,Uzbekistan,3,1,3-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K,4,2,Gana,3
+M-2026-071,2026,Fase de grupos,L,3,2026-06-27,Panama,England,0,2,0-2,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L,2,-2,Pierde,0
+M-2026-072,2026,Fase de grupos,L,3,2026-06-27,Croatia,Ghana,2,1,2-1,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L,3,1,Gana,3
+M-2026-024,2026,Fase de grupos,D,3,,Paraguay,Australia,0,0,0-0,False,False,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D,0,0,Empata,1
