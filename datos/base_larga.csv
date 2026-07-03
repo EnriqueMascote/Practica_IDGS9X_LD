@@ -1,0 +1,353 @@
+torneo,id_partido,fecha,fase,grupo,equipo,goles_favor,goles_contra
+2018,M-2018-01,2018-06-14,Fase de grupos,G,Russia,5.0,
+2018,M-2018-02,2018-06-15,Fase de grupos,A,Egypt,0.0,1.0
+2018,M-2018-03,2018-06-15,Fase de grupos,G,Morocco,0.0,1.0
+2018,M-2018-04,2018-06-15,Fase de grupos,G,Portugal,3.0,3.0
+2018,M-2018-05,2018-06-16,Fase de grupos,C,France,2.0,1.0
+2018,M-2018-06,2018-06-16,Fase de grupos,G,Argentina,1.0,1.0
+2018,M-2018-07,2018-06-16,Fase de grupos,G,Peru,0.0,1.0
+2018,M-2018-08,2018-06-16,Fase de grupos,D,Croatia,2.0,0.0
+2018,M-2018-09,2018-06-17,Fase de grupos,G,Costa Rica,0.0,1.0
+2018,M-2018-10,2018-06-17,Fase de grupos,,Germany,0.0,1.0
+2018,M-2018-11,2018-06-17,Fase de grupos,E,Brazil,1.0,1.0
+2018,M-2018-12,2018-06-18,Fase de grupos,G,Sweden,1.0,0.0
+2018,M-2018-13,2018-06-18,Fase de grupos,G,Belgium,3.0,0.0
+2018,M-2018-14,2018-06-18,Fase de grupos,G,Tunisia,1.0,2.0
+2018,M-2018-15,2018-06-19,Fase de grupos,G,Colombia,1.0,2.0
+2018,M-2018-16,2018-06-19,Fase de grupos,G,Poland,1.0,2.0
+2018,M-2018-17,2018-06-19,Fase de grupos,A,Russia,3.0,1.0
+2018,M-2018-18,2018-06-20,Fase de grupos,G,Portugal,1.0,0.0
+2018,M-2018-19,2018-06-20,Fase de grupos,G,Uruguay,1.0,0.0
+2018,M-2018-20,2018-06-20,Fase de grupos,B,Iran,0.0,
+2018,M-2018-21,2018-06-21,Fase de grupos,G,Denmark,1.0,1.0
+2018,M-2018-22,2018-06-21,Fase de grupos,G,France,1.0,0.0
+2018,M-2018-23,2018-06-21,Fase de grupos,D,Argentina,1.0,3.0
+2018,M-2018-24,2018-06-22,Fase de grupos,G,Brazil,2.0,0.0
+2018,M-2018-25,2018-06-22,Fase de grupos,G,Nigeria,2.0,0.0
+2018,M-2018-26,2018-06-22,Fase de grupos,E,Serbia,1.0,2.0
+2018,M-2018-27,2018-06-23,Fase de grupos,G,Belgium,5.0,2.0
+2018,M-2018-28,2018-06-23,Fase de grupos,G,South Korea,1.0,2.0
+2018,M-2018-29,2018-06-23,Fase de grupos,F,Germany,2.0,1.0
+2018,M-2018-30,2018-06-24,Fase de grupos,G,England,6.0,1.0
+2018,M-2018-31,2018-06-24,Fase de grupos,G,Japan,2.0,2.0
+2018,M-2018-32,2018-06-24,Fase de grupos,D,Poland,0.0,3.0
+2018,M-2018-33,2018-06-25,Fase de grupos,G,Saudi Arabia,2.0,1.0
+2018,M-2018-34,2018-06-25,Fase de grupos,G,Uruguay,3.0,0.0
+2018,M-2018-35,2018-06-25,Fase de grupos,B,Spain,2.0,2.0
+2018,M-2018-36,2018-06-25,Fase de grupos,G,Iran,1.0,1.0
+2018,M-2018-37,2018-06-26,Fase de grupos,G,Australia,0.0,2.0
+2018,M-2018-38,2018-06-26,Fase de grupos,C,Denmark,0.0,0.0
+2018,M-2018-39,2018-06-26,Fase de grupos,G,Iceland,1.0,
+2018,M-2018-40,2018-06-26,Fase de grupos,G,Nigeria,1.0,2.0
+2018,M-2018-41,2018-06-27,Fase de grupos,F,South Korea,2.0,0.0
+2018,M-2018-42,2018-06-27,Fase de grupos,G,Mexico,0.0,3.0
+2018,M-2018-43,2018-06-27,Fase de grupos,G,Serbia,0.0,2.0
+2018,M-2018-44,2018-06-27,Fase de grupos,E,Switzerland,2.0,2.0
+2018,M-2018-45,2018-06-28,Fase de grupos,G,Japan,0.0,1.0
+2018,M-2018-46,2018-06-28,Fase de grupos,G,Senegal,0.0,1.0
+2018,M-2018-47,2018-06-28,Fase de grupos,G,England,0.0,1.0
+2018,M-2018-48,2018-06-28,Fase de grupos,G,Panama,1.0,2.0
+2018,M-2018-05,2018-06-16,Fase de grupos,C,France,2.0,1.0
+2018,M-2018-18,2018-06-20,Fase de grupos,G,Portugal,1.0,0.0
+2022,M-2022-01,2022-11-20,Fase de grupos,G,Qatar,,2.0
+2022,M-2022-02,2022-11-21,Fase de grupos,B,England,6.0,2.0
+2022,M-2022-03,2022-11-21,Fase de grupos,G,Senegal,0.0,2.0
+2022,M-2022-04,2022-11-21,Fase de grupos,B,United States,1.0,1.0
+2022,M-2022-05,2022-11-22,Fase de grupos,G,Argentina,1.0,2.0
+2022,M-2022-06,2022-11-22,Fase de grupos,D,Denmark,0.0,0.0
+2022,M-2022-07,2022-11-22,Fase de grupos,G,Mexico,0.0,0.0
+2022,M-2022-08,2022-11-22,Fase de grupos,D,France,4.0,1.0
+2022,M-2022-09,2022-11-23,Fase de grupos,G,Morocco,0.0,0.0
+2022,M-2022-10,2022-11-23,Fase de grupos,E,Germany,1.0,2.0
+2022,M-2022-11,2022-11-23,Fase de grupos,G,Spain,7.0,0.0
+2022,M-2022-12,2022-11-23,Fase de grupos,,Belgium,1.0,0.0
+2022,M-2022-13,2022-11-24,Fase de grupos,G,Switzerland,,0.0
+2022,M-2022-14,2022-11-24,Fase de grupos,H,Uruguay,0.0,0.0
+2022,M-2022-15,2022-11-24,Fase de grupos,G,Portugal,3.0,2.0
+2022,M-2022-16,2022-11-24,Fase de grupos,G,Brazil,2.0,0.0
+2022,M-2022-17,2022-11-25,Fase de grupos,G,Wales,0.0,2.0
+2022,M-2022-18,2022-11-25,Fase de grupos,A,Qatar,1.0,3.0
+2022,M-2022-19,2022-11-25,Fase de grupos,G,Netherlands,1.0,1.0
+2022,M-2022-20,2022-11-25,Fase de grupos,B,England,0.0,0.0
+2022,M-2022-21,2022-11-26,Fase de grupos,G,Tunisia,0.0,1.0
+2022,M-2022-22,2022-11-26,Fase de grupos,C,Poland,2.0,0.0
+2022,M-2022-23,2022-11-26,Fase de grupos,G,France,2.0,1.0
+2022,M-2022-24,2022-11-26,Fase de grupos,C,Argentina,2.0,0.0
+2022,M-2022-25,2022-11-27,Fase de grupos,G,Japan,,1.0
+2022,M-2022-26,2022-11-27,Fase de grupos,F,Belgium,0.0,2.0
+2022,M-2022-27,2022-11-27,Fase de grupos,G,Croatia,4.0,1.0
+2022,M-2022-28,2022-11-27,Fase de grupos,E,Spain,1.0,-2.0
+2022,M-2022-29,2022-11-28,Fase de grupos,G,Cameroon,3.0,3.0
+2022,M-2022-30,2022-11-28,Fase de grupos,H,South Korea,2.0,3.0
+2022,M-2022-31,,Fase de grupos,G,Brazil,1.0,0.0
+2022,M-2022-32,2022-11-28,Fase de grupos,H,Portugal,2.0,0.0
+2022,M-2022-33,2022-11-29,Fase de grupos,G,Ecuador,1.0,2.0
+2022,M-2022-34,2022-11-29,Fase de grupos,A,Netherlands,2.0,0.0
+2022,M-2022-35,2022-11-29,Fase de grupos,G,Iran,0.0,1.0
+2022,M-2022-36,2022-11-29,Fase de grupos,B,Wales,0.0,3.0
+2022,M-2022-37,2022-11-30,Fase de grupos,G,Australia,,0.0
+2022,M-2022-38,2022-11-30,Fase de grupos,D,Tunisia,1.0,0.0
+2022,M-2022-39,2022-11-30,Fase de grupos,G,Poland,0.0,2.0
+2022,M-2022-40,2022-11-30,Fase de grupos,C,Saudi Arabia,1.0,2.0
+2022,M-2022-41,2022-12-01,Fase de grupos,G,Canada,1.0,2.0
+2022,M-2022-42,2022-12-01,Fase de grupos,F,Croatia,0.0,0.0
+2022,M-2022-43,2022-01-12,Fase de grupos,G,Costa Rica,2.0,4.0
+2022,M-2022-44,2022-12-01,Fase de grupos,E,Japan,2.0,1.0
+2022,M-2022-45,2022-12-02,Fase de grupos,G,Ghana,0.0,2.0
+2022,M-2022-46,2022-12-02,Fase de grupos,H,South Korea,2.0,1.0
+2022,M-2022-47,2022-12-02,Fase de grupos,G,Cameroon,1.0,0.0
+2022,M-2022-48,2022-02-12,Fase de grupos,G,Serbia,2.0,3.0
+2022,M-2022-03,2022-11-21,Fase de grupos,G,Senegal,0.0,2.0
+2022,M-2022-03,2022-11-21,Fase de grupos,G,Senegal,0.0,2.0
+2022,M-2022-42,2022-12-01,Fase de grupos,F,Croatia,0.0,0.0
+2026,M-2026-001,2026-06-11,Fase de grupos,A,Mexico,,
+2026,M-2026-002,2026-06-12,Fase de grupos,G,South Korea,2.0,1.0
+2026,M-2026-007,2026-12-06,Fase de grupos,G,Canada,1.0,1.0
+2026,M-2026-008,2026-06-13,Fase de grupos,B,Qatar,1.0,1.0
+2026,M-2026-013,2026-06-13,Fase de grupos,C,Brazil,1.0,1.0
+2026,M-2026-014,2026-06-13,Fase de grupos,G,Haiti,0.0,1.0
+2026,M-2026-019,2026-06-13,Fase de grupos,G,United States,4.0,1.0
+2026,M-2026-020,,Fase de grupos,D,Australia,2.0,0.0
+2026,M-2026-025,2026-06-14,Fase de grupos,E,Germany,7.0,1.0
+2026,M-2026-026,2026-06-14,Fase de grupos,G,Ivory Coast,1.0,0.0
+2026,M-2026-031,2026-06-14,Fase de grupos,G,Netherlands,,2.0
+2026,M-2026-032,2026-06-15,Fase de grupos,F,Sweden,5.0,1.0
+2026,M-2026-037,2026-06-15,Fase de grupos,,Belgium,1.0,1.0
+2026,M-2026-038,2026-06-15,Fase de grupos,G,Iran,2.0,2.0
+2026,M-2026-043,2026-06-15,Fase de grupos,G,Spain,0.0,
+2026,M-2026-044,2026-06-15,Fase de grupos,H,Saudi Arabia,1.0,1.0
+2026,M-2026-049,2026-06-16,Fase de grupos,,France,3.0,1.0
+2026,M-2026-050,2026-06-16,Fase de grupos,G,Iraq,1.0,4.0
+2026,M-2026-055,2026-06-16,Fase de grupos,G,Argentina,3.0,0.0
+2026,M-2026-056,2026-06-17,Fase de grupos,,Austria,3.0,1.0
+2026,M-2026-061,2026-06-17,Fase de grupos,,Portugal,,1.0
+2026,M-2026-062,2026-06-17,Fase de grupos,G,Uzbekistan,1.0,3.0
+2026,M-2026-067,2026-06-17,Fase de grupos,G,England,4.0,2.0
+2026,M-2026-003,2026-06-18,Fase de grupos,A,Czechia,1.0,1.0
+2026,M-2026-004,2026-06-18,Fase de grupos,A,Mexico,1.0,0.0
+2026,M-2026-009,2026-06-18,Fase de grupos,G,Switzerland,4.0,1.0
+2026,M-2026-010,2026-06-18,Fase de grupos,G,Canada,6.0,0.0
+2026,M-2026-068,2026-06-18,Fase de grupos,,Ghana,1.0,0.0
+2026,M-2026-015,2026-06-19,Fase de grupos,C,Scotland,0.0,
+2026,M-2026-016,2026-06-19,Fase de grupos,G,Brazil,3.0,0.0
+2026,M-2026-021,2026-06-19,Fase de grupos,G,United States,,0.0
+2026,M-2026-022,2026-06-20,Fase de grupos,D,Turkey,0.0,1.0
+2026,M-2026-027,2026-06-20,Fase de grupos,E,Germany,2.0,1.0
+2026,M-2026-028,2026-06-20,Fase de grupos,G,Ecuador,0.0,0.0
+2026,M-2026-033,2026-06-20,Fase de grupos,G,Netherlands,5.0,1.0
+2026,M-2026-034,2026-06-20,Fase de grupos,F,Tunisia,0.0,4.0
+2026,M-2026-039,2026-06-21,Fase de grupos,G,Belgium,0.0,0.0
+2026,M-2026-040,2026-06-21,Fase de grupos,G,New Zealand,1.0,3.0
+2026,M-2026-045,2026-06-21,Fase de grupos,G,Spain,4.0,0.0
+2026,M-2026-046,2026-06-21,Fase de grupos,H,Uruguay,-1.0,2.0
+2026,M-2026-051,2026-06-22,Fase de grupos,,France,,0.0
+2026,M-2026-052,2026-06-22,Fase de grupos,G,Norway,3.0,2.0
+2026,M-2026-057,2026-06-22,Fase de grupos,G,Argentina,2.0,
+2026,M-2026-058,2026-06-22,Fase de grupos,,Jordan,1.0,2.0
+2026,M-2026-063,2026-06-23,Fase de grupos,,Portugal,5.0,0.0
+2026,M-2026-064,2026-06-23,Fase de grupos,G,Colombia,1.0,0.0
+2026,M-2026-069,2026-06-23,Fase de grupos,G,England,0.0,0.0
+2026,M-2026-070,2026-06-23,Fase de grupos,,Panama,0.0,1.0
+2026,M-2026-005,2026-06-24,Fase de grupos,A,Czechia,0.0,3.0
+2026,M-2026-006,2026-06-24,Fase de grupos,G,South Africa,1.0,0.0
+2026,M-2026-011,2026-06-24,Fase de grupos,G,Switzerland,,1.0
+2026,M-2026-012,2026-06-24,Fase de grupos,B,Bosnia and Herzegovina,3.0,1.0
+2026,M-2026-017,2026-06-25,Fase de grupos,C,Scotland,0.0,3.0
+2026,M-2026-018,2026-06-25,Fase de grupos,G,Morocco,4.0,2.0
+2026,M-2026-023,2026-06-25,Fase de grupos,G,Turkey,3.0,2.0
+2026,M-2026-024,,Fase de grupos,D,Paraguay,0.0,0.0
+2026,M-2026-029,2026-06-25,Fase de grupos,E,Curacao,0.0,
+2026,M-2026-030,2026-06-25,Fase de grupos,G,Ecuador,2.0,1.0
+2026,M-2026-035,2026-06-26,Fase de grupos,G,Japan,1.0,1.0
+2026,M-2026-036,2026-06-26,Fase de grupos,F,Tunisia,1.0,3.0
+2026,M-2026-041,2026-06-26,Fase de grupos,G,Egypt,,1.0
+2026,M-2026-042,2026-06-26,Fase de grupos,G,New Zealand,1.0,5.0
+2026,M-2026-047,2026-06-26,Fase de grupos,G,Cape Verde,0.0,0.0
+2026,M-2026-048,2026-06-26,Fase de grupos,H,Uruguay,0.0,1.0
+2026,M-2026-053,2026-06-26,Fase de grupos,,Norway,1.0,4.0
+2026,M-2026-054,2026-06-26,Fase de grupos,G,Senegal,5.0,0.0
+2026,M-2026-059,2026-06-27,Fase de grupos,G,Algeria,3.0,3.0
+2026,M-2026-060,2026-06-27,Fase de grupos,,Jordan,1.0,3.0
+2026,M-2026-065,2026-06-27,Fase de grupos,,Colombia,0.0,0.0
+2026,M-2026-066,2026-06-27,Fase de grupos,G,DR Congo,3.0,1.0
+2026,M-2026-071,2026-06-27,Fase de grupos,G,Panama,,
+2026,M-2026-072,2026-06-27,Fase de grupos,,Croatia,2.0,1.0
+2026,M-2026-019,2026-06-13,Fase de grupos,G,United States,4.0,1.0
+2026,M-2026-051,2026-06-22,Fase de grupos,,France,,0.0
+2026,M-2026-065,2026-06-27,Fase de grupos,,Colombia,0.0,0.0
+2018,M-2018-01,2018-06-14,Fase de grupos,G,Saudi Arabia,,5.0
+2018,M-2018-02,2018-06-15,Fase de grupos,A,Uruguay,1.0,0.0
+2018,M-2018-03,2018-06-15,Fase de grupos,G,Iran,1.0,0.0
+2018,M-2018-04,2018-06-15,Fase de grupos,G,Spain,3.0,3.0
+2018,M-2018-05,2018-06-16,Fase de grupos,C,Australia,1.0,2.0
+2018,M-2018-06,2018-06-16,Fase de grupos,G,Iceland,1.0,1.0
+2018,M-2018-07,2018-06-16,Fase de grupos,G,Denmark,1.0,0.0
+2018,M-2018-08,2018-06-16,Fase de grupos,D,Nigeria,0.0,2.0
+2018,M-2018-09,2018-06-17,Fase de grupos,G,Serbia,1.0,0.0
+2018,M-2018-10,2018-06-17,Fase de grupos,,Mexico,1.0,0.0
+2018,M-2018-11,2018-06-17,Fase de grupos,E,Switzerland,1.0,1.0
+2018,M-2018-12,2018-06-18,Fase de grupos,G,South Korea,0.0,1.0
+2018,M-2018-13,2018-06-18,Fase de grupos,G,Panama,0.0,3.0
+2018,M-2018-14,2018-06-18,Fase de grupos,G,England,2.0,1.0
+2018,M-2018-15,2018-06-19,Fase de grupos,G,Japan,2.0,1.0
+2018,M-2018-16,2018-06-19,Fase de grupos,G,Senegal,2.0,1.0
+2018,M-2018-17,2018-06-19,Fase de grupos,A,Egypt,1.0,3.0
+2018,M-2018-18,2018-06-20,Fase de grupos,G,Morocco,0.0,1.0
+2018,M-2018-19,2018-06-20,Fase de grupos,G,Saudi Arabia,0.0,1.0
+2018,M-2018-20,2018-06-20,Fase de grupos,B,Spain,,0.0
+2018,M-2018-21,2018-06-21,Fase de grupos,G,Australia,1.0,1.0
+2018,M-2018-22,2018-06-21,Fase de grupos,G,Peru,0.0,1.0
+2018,M-2018-23,2018-06-21,Fase de grupos,D,Croatia,3.0,1.0
+2018,M-2018-24,2018-06-22,Fase de grupos,G,Costa Rica,0.0,2.0
+2018,M-2018-25,2018-06-22,Fase de grupos,G,Iceland,0.0,2.0
+2018,M-2018-26,2018-06-22,Fase de grupos,E,Switzerland,2.0,1.0
+2018,M-2018-27,2018-06-23,Fase de grupos,G,Tunisia,2.0,5.0
+2018,M-2018-28,2018-06-23,Fase de grupos,G,Mexico,2.0,1.0
+2018,M-2018-29,2018-06-23,Fase de grupos,F,Sweden,1.0,2.0
+2018,M-2018-30,2018-06-24,Fase de grupos,G,Panama,1.0,6.0
+2018,M-2018-31,2018-06-24,Fase de grupos,G,Senegal,2.0,2.0
+2018,M-2018-32,2018-06-24,Fase de grupos,D,Colombia,3.0,0.0
+2018,M-2018-33,2018-06-25,Fase de grupos,G,Egypt,1.0,2.0
+2018,M-2018-34,2018-06-25,Fase de grupos,G,Russia,0.0,3.0
+2018,M-2018-35,2018-06-25,Fase de grupos,B,Morocco,2.0,2.0
+2018,M-2018-36,2018-06-25,Fase de grupos,G,Portugal,1.0,1.0
+2018,M-2018-37,2018-06-26,Fase de grupos,G,Peru,2.0,0.0
+2018,M-2018-38,2018-06-26,Fase de grupos,C,France,0.0,0.0
+2018,M-2018-39,2018-06-26,Fase de grupos,G,Croatia,,1.0
+2018,M-2018-40,2018-06-26,Fase de grupos,G,Argentina,2.0,1.0
+2018,M-2018-41,2018-06-27,Fase de grupos,F,Germany,0.0,2.0
+2018,M-2018-42,2018-06-27,Fase de grupos,G,Sweden,3.0,0.0
+2018,M-2018-43,2018-06-27,Fase de grupos,G,Brazil,2.0,0.0
+2018,M-2018-44,2018-06-27,Fase de grupos,E,Costa Rica,2.0,2.0
+2018,M-2018-45,2018-06-28,Fase de grupos,G,Poland,1.0,0.0
+2018,M-2018-46,2018-06-28,Fase de grupos,G,Colombia,1.0,0.0
+2018,M-2018-47,2018-06-28,Fase de grupos,G,Belgium,1.0,0.0
+2018,M-2018-48,2018-06-28,Fase de grupos,G,Tunisia,2.0,1.0
+2018,M-2018-05,2018-06-16,Fase de grupos,C,Australia,1.0,2.0
+2018,M-2018-18,2018-06-20,Fase de grupos,G,Morocco,0.0,1.0
+2022,M-2022-01,2022-11-20,Fase de grupos,G,Ecuador,2.0,
+2022,M-2022-02,2022-11-21,Fase de grupos,B,Iran,2.0,6.0
+2022,M-2022-03,2022-11-21,Fase de grupos,G,Netherlands,2.0,0.0
+2022,M-2022-04,2022-11-21,Fase de grupos,B,Wales,1.0,1.0
+2022,M-2022-05,2022-11-22,Fase de grupos,G,Saudi Arabia,2.0,1.0
+2022,M-2022-06,2022-11-22,Fase de grupos,D,Tunisia,0.0,0.0
+2022,M-2022-07,2022-11-22,Fase de grupos,G,Poland,0.0,0.0
+2022,M-2022-08,2022-11-22,Fase de grupos,D,Australia,1.0,4.0
+2022,M-2022-09,2022-11-23,Fase de grupos,G,Croatia,0.0,0.0
+2022,M-2022-10,2022-11-23,Fase de grupos,E,Japan,2.0,1.0
+2022,M-2022-11,2022-11-23,Fase de grupos,G,Costa Rica,0.0,7.0
+2022,M-2022-12,2022-11-23,Fase de grupos,,Canada,0.0,1.0
+2022,M-2022-13,2022-11-24,Fase de grupos,G,Cameroon,0.0,
+2022,M-2022-14,2022-11-24,Fase de grupos,H,South Korea,0.0,0.0
+2022,M-2022-15,2022-11-24,Fase de grupos,G,Ghana,2.0,3.0
+2022,M-2022-16,2022-11-24,Fase de grupos,G,Serbia,0.0,2.0
+2022,M-2022-17,2022-11-25,Fase de grupos,G,Iran,2.0,0.0
+2022,M-2022-18,2022-11-25,Fase de grupos,A,Senegal,3.0,1.0
+2022,M-2022-19,2022-11-25,Fase de grupos,G,Ecuador,1.0,1.0
+2022,M-2022-20,2022-11-25,Fase de grupos,B,United States,0.0,0.0
+2022,M-2022-21,2022-11-26,Fase de grupos,G,Australia,1.0,0.0
+2022,M-2022-22,2022-11-26,Fase de grupos,C,Saudi Arabia,0.0,2.0
+2022,M-2022-23,2022-11-26,Fase de grupos,G,Denmark,1.0,2.0
+2022,M-2022-24,2022-11-26,Fase de grupos,C,Mexico,0.0,2.0
+2022,M-2022-25,2022-11-27,Fase de grupos,G,Costa Rica,1.0,
+2022,M-2022-26,2022-11-27,Fase de grupos,F,Morocco,2.0,0.0
+2022,M-2022-27,2022-11-27,Fase de grupos,G,Canada,1.0,4.0
+2022,M-2022-28,2022-11-27,Fase de grupos,E,Germany,-2.0,1.0
+2022,M-2022-29,2022-11-28,Fase de grupos,G,Serbia,3.0,3.0
+2022,M-2022-30,2022-11-28,Fase de grupos,H,Ghana,3.0,2.0
+2022,M-2022-31,,Fase de grupos,G,Switzerland,0.0,1.0
+2022,M-2022-32,2022-11-28,Fase de grupos,H,Uruguay,0.0,2.0
+2022,M-2022-33,2022-11-29,Fase de grupos,G,Senegal,2.0,1.0
+2022,M-2022-34,2022-11-29,Fase de grupos,A,Qatar,0.0,2.0
+2022,M-2022-35,2022-11-29,Fase de grupos,G,United States,1.0,0.0
+2022,M-2022-36,2022-11-29,Fase de grupos,B,England,3.0,0.0
+2022,M-2022-37,2022-11-30,Fase de grupos,G,Denmark,0.0,
+2022,M-2022-38,2022-11-30,Fase de grupos,D,France,0.0,1.0
+2022,M-2022-39,2022-11-30,Fase de grupos,G,Argentina,2.0,0.0
+2022,M-2022-40,2022-11-30,Fase de grupos,C,Mexico,2.0,1.0
+2022,M-2022-41,2022-12-01,Fase de grupos,G,Morocco,2.0,1.0
+2022,M-2022-42,2022-12-01,Fase de grupos,F,Belgium,0.0,0.0
+2022,M-2022-43,2022-01-12,Fase de grupos,G,Germany,4.0,2.0
+2022,M-2022-44,2022-12-01,Fase de grupos,E,Spain,1.0,2.0
+2022,M-2022-45,2022-12-02,Fase de grupos,G,Uruguay,2.0,0.0
+2022,M-2022-46,2022-12-02,Fase de grupos,H,Portugal,1.0,2.0
+2022,M-2022-47,2022-12-02,Fase de grupos,G,Brazil,0.0,1.0
+2022,M-2022-48,2022-02-12,Fase de grupos,G,Switzerland,3.0,2.0
+2022,M-2022-03,2022-11-21,Fase de grupos,G,Netherlands,2.0,0.0
+2022,M-2022-03,2022-11-21,Fase de grupos,G,Netherlands,2.0,0.0
+2022,M-2022-42,2022-12-01,Fase de grupos,F,Belgium,0.0,0.0
+2026,M-2026-001,2026-06-11,Fase de grupos,A,South Africa,,
+2026,M-2026-002,2026-06-12,Fase de grupos,G,Czechia,1.0,2.0
+2026,M-2026-007,2026-12-06,Fase de grupos,G,Bosnia and Herzegovina,1.0,1.0
+2026,M-2026-008,2026-06-13,Fase de grupos,B,Switzerland,1.0,1.0
+2026,M-2026-013,2026-06-13,Fase de grupos,C,Morocco,1.0,1.0
+2026,M-2026-014,2026-06-13,Fase de grupos,G,Scotland,1.0,0.0
+2026,M-2026-019,2026-06-13,Fase de grupos,G,Paraguay,1.0,4.0
+2026,M-2026-020,,Fase de grupos,D,Turkey,0.0,2.0
+2026,M-2026-025,2026-06-14,Fase de grupos,E,Curacao,1.0,7.0
+2026,M-2026-026,2026-06-14,Fase de grupos,G,Ecuador,0.0,1.0
+2026,M-2026-031,2026-06-14,Fase de grupos,G,Japan,2.0,
+2026,M-2026-032,2026-06-15,Fase de grupos,F,Tunisia,1.0,5.0
+2026,M-2026-037,2026-06-15,Fase de grupos,,Egypt,1.0,1.0
+2026,M-2026-038,2026-06-15,Fase de grupos,G,New Zealand,2.0,2.0
+2026,M-2026-043,2026-06-15,Fase de grupos,G,Cape Verde,,0.0
+2026,M-2026-044,2026-06-15,Fase de grupos,H,Uruguay,1.0,1.0
+2026,M-2026-049,2026-06-16,Fase de grupos,,Senegal,1.0,3.0
+2026,M-2026-050,2026-06-16,Fase de grupos,G,Norway,4.0,1.0
+2026,M-2026-055,2026-06-16,Fase de grupos,G,Algeria,0.0,3.0
+2026,M-2026-056,2026-06-17,Fase de grupos,,Jordan,1.0,3.0
+2026,M-2026-061,2026-06-17,Fase de grupos,,DR Congo,1.0,
+2026,M-2026-062,2026-06-17,Fase de grupos,G,Colombia,3.0,1.0
+2026,M-2026-067,2026-06-17,Fase de grupos,G,Croatia,2.0,4.0
+2026,M-2026-003,2026-06-18,Fase de grupos,A,South Africa,1.0,1.0
+2026,M-2026-004,2026-06-18,Fase de grupos,A,South Korea,0.0,1.0
+2026,M-2026-009,2026-06-18,Fase de grupos,G,Bosnia and Herzegovina,1.0,4.0
+2026,M-2026-010,2026-06-18,Fase de grupos,G,Qatar,0.0,6.0
+2026,M-2026-068,2026-06-18,Fase de grupos,,Panama,0.0,1.0
+2026,M-2026-015,2026-06-19,Fase de grupos,C,Morocco,,0.0
+2026,M-2026-016,2026-06-19,Fase de grupos,G,Haiti,0.0,3.0
+2026,M-2026-021,2026-06-19,Fase de grupos,G,Australia,0.0,
+2026,M-2026-022,2026-06-20,Fase de grupos,D,Paraguay,1.0,0.0
+2026,M-2026-027,2026-06-20,Fase de grupos,E,Ivory Coast,1.0,2.0
+2026,M-2026-028,2026-06-20,Fase de grupos,G,Curacao,0.0,0.0
+2026,M-2026-033,2026-06-20,Fase de grupos,G,Sweden,1.0,5.0
+2026,M-2026-034,2026-06-20,Fase de grupos,F,Japan,4.0,0.0
+2026,M-2026-039,2026-06-21,Fase de grupos,G,Iran,0.0,0.0
+2026,M-2026-040,2026-06-21,Fase de grupos,G,Egypt,3.0,1.0
+2026,M-2026-045,2026-06-21,Fase de grupos,G,Saudi Arabia,0.0,4.0
+2026,M-2026-046,2026-06-21,Fase de grupos,H,Cape Verde,2.0,-1.0
+2026,M-2026-051,2026-06-22,Fase de grupos,,Iraq,0.0,
+2026,M-2026-052,2026-06-22,Fase de grupos,G,Senegal,2.0,3.0
+2026,M-2026-057,2026-06-22,Fase de grupos,G,Austria,,2.0
+2026,M-2026-058,2026-06-22,Fase de grupos,,Algeria,2.0,1.0
+2026,M-2026-063,2026-06-23,Fase de grupos,,Uzbekistan,0.0,5.0
+2026,M-2026-064,2026-06-23,Fase de grupos,G,DR Congo,0.0,1.0
+2026,M-2026-069,2026-06-23,Fase de grupos,G,Ghana,0.0,0.0
+2026,M-2026-070,2026-06-23,Fase de grupos,,Croatia,1.0,0.0
+2026,M-2026-005,2026-06-24,Fase de grupos,A,Mexico,3.0,0.0
+2026,M-2026-006,2026-06-24,Fase de grupos,G,South Korea,0.0,1.0
+2026,M-2026-011,2026-06-24,Fase de grupos,G,Canada,1.0,
+2026,M-2026-012,2026-06-24,Fase de grupos,B,Qatar,1.0,3.0
+2026,M-2026-017,2026-06-25,Fase de grupos,C,Brazil,3.0,0.0
+2026,M-2026-018,2026-06-25,Fase de grupos,G,Haiti,2.0,4.0
+2026,M-2026-023,2026-06-25,Fase de grupos,G,United States,2.0,3.0
+2026,M-2026-024,,Fase de grupos,D,Australia,0.0,0.0
+2026,M-2026-029,2026-06-25,Fase de grupos,E,Ivory Coast,,0.0
+2026,M-2026-030,2026-06-25,Fase de grupos,G,Germany,1.0,2.0
+2026,M-2026-035,2026-06-26,Fase de grupos,G,Sweden,1.0,1.0
+2026,M-2026-036,2026-06-26,Fase de grupos,F,Netherlands,3.0,1.0
+2026,M-2026-041,2026-06-26,Fase de grupos,G,Iran,1.0,
+2026,M-2026-042,2026-06-26,Fase de grupos,G,Belgium,5.0,1.0
+2026,M-2026-047,2026-06-26,Fase de grupos,G,Saudi Arabia,0.0,0.0
+2026,M-2026-048,2026-06-26,Fase de grupos,H,Spain,1.0,0.0
+2026,M-2026-053,2026-06-26,Fase de grupos,,France,4.0,1.0
+2026,M-2026-054,2026-06-26,Fase de grupos,G,Iraq,0.0,5.0
+2026,M-2026-059,2026-06-27,Fase de grupos,G,Austria,3.0,3.0
+2026,M-2026-060,2026-06-27,Fase de grupos,,Argentina,3.0,1.0
+2026,M-2026-065,2026-06-27,Fase de grupos,,Portugal,0.0,0.0
+2026,M-2026-066,2026-06-27,Fase de grupos,G,Uzbekistan,1.0,3.0
+2026,M-2026-071,2026-06-27,Fase de grupos,G,England,,
+2026,M-2026-072,2026-06-27,Fase de grupos,,Ghana,1.0,2.0
+2026,M-2026-019,2026-06-13,Fase de grupos,G,Paraguay,1.0,4.0
+2026,M-2026-051,2026-06-22,Fase de grupos,,Iraq,0.0,
+2026,M-2026-065,2026-06-27,Fase de grupos,,Portugal,0.0,0.0

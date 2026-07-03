@@ -1,0 +1,177 @@
+torneo,id_partido,fase,grupo,jornada,fecha,equipo_local,equipo_visitante,goles_local,goles_visitante,anfitrion_local,estadio,ciudad,fuente
+2018,M-2018-01,Fase de grupos,G,1,2018-06-14,Russia,Saudi Arabia,5.0,,True,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-02,Fase de grupos,A,1,2018-06-15,Egypt,Uruguay,0.0,1.0,False,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-03,Fase de grupos,G,1,2018-06-15,Morocco,Iran,0.0,1.0,False,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-04,Fase de grupos,G,1,2018-06-15,Portugal,Spain,3.0,3.0,False,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+2018,M-2018-05,Fase de grupos,C,1,2018-06-16,France,Australia,2.0,1.0,False,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+2018,M-2018-06,Fase de grupos,G,1,2018-06-16,Argentina,Iceland,1.0,1.0,False,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-07,Fase de grupos,G,1,2018-06-16,Peru,Denmark,0.0,1.0,False,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+2018,M-2018-08,Fase de grupos,D,1,2018-06-16,Croatia,Nigeria,2.0,0.0,False,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+2018,M-2018-09,Fase de grupos,G,1,2018-06-17,Costa Rica,Serbia,0.0,1.0,False,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+2018,M-2018-10,Fase de grupos,,1,2018-06-17,Germany,Mexico,0.0,1.0,False,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-11,Fase de grupos,E,1,2018-06-17,Brazil,Switzerland,1.0,1.0,False,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+2018,M-2018-12,Fase de grupos,G,1,2018-06-18,Sweden,South Korea,1.0,0.0,False,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+2018,M-2018-13,Fase de grupos,G,1,2018-06-18,Belgium,Panama,3.0,0.0,False,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+2018,M-2018-14,Fase de grupos,G,1,2018-06-18,Tunisia,England,1.0,2.0,False,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+2018,M-2018-15,Fase de grupos,G,1,2018-06-19,Colombia,Japan,1.0,2.0,False,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+2018,M-2018-16,Fase de grupos,G,1,2018-06-19,Poland,Senegal,1.0,2.0,False,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-17,Fase de grupos,A,2,2018-06-19,Russia,Egypt,3.0,1.0,True,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-18,Fase de grupos,G,2,2018-06-20,Portugal,Morocco,1.0,0.0,False,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-19,Fase de grupos,G,2,2018-06-20,Uruguay,Saudi Arabia,1.0,0.0,False,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+2018,M-2018-20,Fase de grupos,B,2,2018-06-20,Iran,Spain,0.0,,False,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+2018,M-2018-21,Fase de grupos,G,2,2018-06-21,Denmark,Australia,1.0,1.0,False,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+2018,M-2018-22,Fase de grupos,G,2,2018-06-21,France,Peru,1.0,0.0,False,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-23,Fase de grupos,D,2,2018-06-21,Argentina,Croatia,1.0,3.0,False,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+2018,M-2018-24,Fase de grupos,G,2,2018-06-22,Brazil,Costa Rica,2.0,0.0,False,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-25,Fase de grupos,G,2,2018-06-22,Nigeria,Iceland,2.0,0.0,False,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+2018,M-2018-26,Fase de grupos,E,2,2018-06-22,Serbia,Switzerland,1.0,2.0,False,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+2018,M-2018-27,Fase de grupos,G,2,2018-06-23,Belgium,Tunisia,5.0,2.0,False,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-28,Fase de grupos,G,2,2018-06-23,South Korea,Mexico,1.0,2.0,False,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+2018,M-2018-29,Fase de grupos,F,2,2018-06-23,Germany,Sweden,2.0,1.0,False,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+2018,M-2018-30,Fase de grupos,G,2,2018-06-24,England,Panama,6.0,1.0,False,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+2018,M-2018-31,Fase de grupos,G,2,2018-06-24,Japan,Senegal,2.0,2.0,False,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-32,Fase de grupos,D,2,2018-06-24,Poland,Colombia,0.0,3.0,False,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+2018,M-2018-33,Fase de grupos,G,3,2018-06-25,Saudi Arabia,Egypt,2.0,1.0,False,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+2018,M-2018-34,Fase de grupos,G,3,2018-06-25,Uruguay,Russia,3.0,0.0,False,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+2018,M-2018-35,Fase de grupos,B,3,2018-06-25,Spain,Morocco,2.0,2.0,False,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+2018,M-2018-36,Fase de grupos,G,3,2018-06-25,Iran,Portugal,1.0,1.0,False,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+2018,M-2018-37,Fase de grupos,G,3,2018-06-26,Australia,Peru,0.0,2.0,False,Fisht Olympic Stadium,Sochi,https://github.com/jfjelstul/worldcup
+2018,M-2018-38,Fase de grupos,C,3,2018-06-26,Denmark,France,0.0,0.0,False,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-39,Fase de grupos,G,3,2018-06-26,Iceland,Croatia,1.0,,False,Rostov Arena,Rostov-on-Don,https://github.com/jfjelstul/worldcup
+2018,M-2018-40,Fase de grupos,G,3,2018-06-26,Nigeria,Argentina,1.0,2.0,False,Krestovsky Stadium,Saint Petersburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-41,Fase de grupos,F,3,2018-06-27,South Korea,Germany,2.0,0.0,False,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+2018,M-2018-42,Fase de grupos,G,3,2018-06-27,Mexico,Sweden,0.0,3.0,False,Central Stadium,Yekaterinburg,https://github.com/jfjelstul/worldcup
+2018,M-2018-43,Fase de grupos,G,3,2018-06-27,Serbia,Brazil,0.0,2.0,False,Otkritie Arena,Moscow,https://github.com/jfjelstul/worldcup
+2018,M-2018-44,Fase de grupos,E,3,2018-06-27,Switzerland,Costa Rica,2.0,2.0,False,Nizhny Novgorod Stadium,Nizhny Novgorod,https://github.com/jfjelstul/worldcup
+2018,M-2018-45,Fase de grupos,G,3,2018-06-28,Japan,Poland,0.0,1.0,False,Volgograd Arena,Volgograd,https://github.com/jfjelstul/worldcup
+2018,M-2018-46,Fase de grupos,G,3,2018-06-28,Senegal,Colombia,0.0,1.0,False,Samara Arena,Samara,https://github.com/jfjelstul/worldcup
+2018,M-2018-47,Fase de grupos,G,3,2018-06-28,England,Belgium,0.0,1.0,False,Kaliningrad Stadium,Kaliningrad,https://github.com/jfjelstul/worldcup
+2018,M-2018-48,Fase de grupos,G,3,2018-06-28,Panama,Tunisia,1.0,2.0,False,Mordovia Arena,Saransk,https://github.com/jfjelstul/worldcup
+2018,M-2018-05,Fase de grupos,C,1,2018-06-16,France,Australia,2.0,1.0,False,Kazan Arena,Kazan,https://github.com/jfjelstul/worldcup
+2018,M-2018-18,Fase de grupos,G,2,2018-06-20,Portugal,Morocco,1.0,0.0,False,Luzhniki Stadium,Moscow,https://github.com/jfjelstul/worldcup
+2022,M-2022-01,Fase de grupos,G,1,2022-11-20,Qatar,Ecuador,,2.0,True,Al Bayt Stadium,Al Khor,https://github.com/jfjelstul/worldcup
+2022,M-2022-02,Fase de grupos,B,1,2022-11-21,England,Iran,6.0,2.0,False,Khalifa International Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-03,Fase de grupos,G,1,2022-11-21,Senegal,Netherlands,0.0,2.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-04,Fase de grupos,B,1,2022-11-21,United States,Wales,1.0,1.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-05,Fase de grupos,G,1,2022-11-22,Argentina,Saudi Arabia,1.0,2.0,False,Lusail Stadium,Lusail,https://github.com/jfjelstul/worldcup
+2022,M-2022-06,Fase de grupos,D,1,2022-11-22,Denmark,Tunisia,0.0,0.0,False,Education City Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-07,Fase de grupos,G,1,2022-11-22,Mexico,Poland,0.0,0.0,False,Stadium 974,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-08,Fase de grupos,D,1,2022-11-22,France,Australia,4.0,1.0,False,Al Janoub Stadium,Al Wakrah,https://github.com/jfjelstul/worldcup
+2022,M-2022-09,Fase de grupos,G,1,2022-11-23,Morocco,Croatia,0.0,0.0,False,Al Bayt Stadium,Al Khor,https://github.com/jfjelstul/worldcup
+2022,M-2022-10,Fase de grupos,E,1,2022-11-23,Germany,Japan,1.0,2.0,False,Khalifa International Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-11,Fase de grupos,G,1,2022-11-23,Spain,Costa Rica,7.0,0.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-12,Fase de grupos,,1,2022-11-23,Belgium,Canada,1.0,0.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-13,Fase de grupos,G,1,2022-11-24,Switzerland,Cameroon,,0.0,False,Al Janoub Stadium,Al Wakrah,https://github.com/jfjelstul/worldcup
+2022,M-2022-14,Fase de grupos,H,1,2022-11-24,Uruguay,South Korea,0.0,0.0,False,Education City Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-15,Fase de grupos,G,1,2022-11-24,Portugal,Ghana,3.0,2.0,False,Stadium 974,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-16,Fase de grupos,G,1,2022-11-24,Brazil,Serbia,2.0,0.0,False,Lusail Stadium,Lusail,https://github.com/jfjelstul/worldcup
+2022,M-2022-17,Fase de grupos,G,2,2022-11-25,Wales,Iran,0.0,2.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-18,Fase de grupos,A,2,2022-11-25,Qatar,Senegal,1.0,3.0,True,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-19,Fase de grupos,G,2,2022-11-25,Netherlands,Ecuador,1.0,1.0,False,Khalifa International Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-20,Fase de grupos,B,2,2022-11-25,England,United States,0.0,0.0,False,Al Bayt Stadium,Al Khor,https://github.com/jfjelstul/worldcup
+2022,M-2022-21,Fase de grupos,G,2,2022-11-26,Tunisia,Australia,0.0,1.0,False,Al Janoub Stadium,Al Wakrah,https://github.com/jfjelstul/worldcup
+2022,M-2022-22,Fase de grupos,C,2,2022-11-26,Poland,Saudi Arabia,2.0,0.0,False,Education City Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-23,Fase de grupos,G,2,2022-11-26,France,Denmark,2.0,1.0,False,Stadium 974,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-24,Fase de grupos,C,2,2022-11-26,Argentina,Mexico,2.0,0.0,False,Lusail Stadium,Lusail,https://github.com/jfjelstul/worldcup
+2022,M-2022-25,Fase de grupos,G,2,2022-11-27,Japan,Costa Rica,,1.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-26,Fase de grupos,F,2,2022-11-27,Belgium,Morocco,0.0,2.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-27,Fase de grupos,G,2,2022-11-27,Croatia,Canada,4.0,1.0,False,Khalifa International Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-28,Fase de grupos,E,2,2022-11-27,Spain,Germany,1.0,-2.0,False,Al Bayt Stadium,Al Khor,https://github.com/jfjelstul/worldcup
+2022,M-2022-29,Fase de grupos,G,2,2022-11-28,Cameroon,Serbia,3.0,3.0,False,Al Janoub Stadium,Al Wakrah,https://github.com/jfjelstul/worldcup
+2022,M-2022-30,Fase de grupos,H,2,2022-11-28,South Korea,Ghana,2.0,3.0,False,Education City Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-31,Fase de grupos,G,2,,Brazil,Switzerland,1.0,0.0,False,Stadium 974,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-32,Fase de grupos,H,2,2022-11-28,Portugal,Uruguay,2.0,0.0,False,Lusail Stadium,Lusail,https://github.com/jfjelstul/worldcup
+2022,M-2022-33,Fase de grupos,G,3,2022-11-29,Ecuador,Senegal,1.0,2.0,False,Khalifa International Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-34,Fase de grupos,A,3,2022-11-29,Netherlands,Qatar,2.0,0.0,False,Al Bayt Stadium,Al Khor,https://github.com/jfjelstul/worldcup
+2022,M-2022-35,Fase de grupos,G,3,2022-11-29,Iran,United States,0.0,1.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-36,Fase de grupos,B,3,2022-11-29,Wales,England,0.0,3.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-37,Fase de grupos,G,3,2022-11-30,Australia,Denmark,,0.0,False,Al Janoub Stadium,Al Wakrah,https://github.com/jfjelstul/worldcup
+2022,M-2022-38,Fase de grupos,D,3,2022-11-30,Tunisia,France,1.0,0.0,False,Education City Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-39,Fase de grupos,G,3,2022-11-30,Poland,Argentina,0.0,2.0,False,Stadium 974,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-40,Fase de grupos,C,3,2022-11-30,Saudi Arabia,Mexico,1.0,2.0,False,Lusail Stadium,Lusail,https://github.com/jfjelstul/worldcup
+2022,M-2022-41,Fase de grupos,G,3,2022-12-01,Canada,Morocco,1.0,2.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-42,Fase de grupos,F,3,2022-12-01,Croatia,Belgium,0.0,0.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-43,Fase de grupos,G,3,2022-01-12,Costa Rica,Germany,2.0,4.0,False,Al Bayt Stadium,Al Khor,https://github.com/jfjelstul/worldcup
+2022,M-2022-44,Fase de grupos,E,3,2022-12-01,Japan,Spain,2.0,1.0,False,Khalifa International Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-45,Fase de grupos,G,3,2022-12-02,Ghana,Uruguay,0.0,2.0,False,Al Janoub Stadium,Al Wakrah,https://github.com/jfjelstul/worldcup
+2022,M-2022-46,Fase de grupos,H,3,2022-12-02,South Korea,Portugal,2.0,1.0,False,Education City Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2022,M-2022-47,Fase de grupos,G,3,2022-12-02,Cameroon,Brazil,1.0,0.0,False,Lusail Stadium,Lusail,https://github.com/jfjelstul/worldcup
+2022,M-2022-48,Fase de grupos,G,3,2022-02-12,Serbia,Switzerland,2.0,3.0,False,Stadium 974,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-03,Fase de grupos,G,1,2022-11-21,Senegal,Netherlands,0.0,2.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-03,Fase de grupos,G,1,2022-11-21,Senegal,Netherlands,0.0,2.0,False,Al Thumama Stadium,Doha,https://github.com/jfjelstul/worldcup
+2022,M-2022-42,Fase de grupos,F,3,2022-12-01,Croatia,Belgium,0.0,0.0,False,Ahmad bin Ali Stadium,Al Rayyan,https://github.com/jfjelstul/worldcup
+2026,M-2026-001,Fase de grupos,A,1,2026-06-11,Mexico,South Africa,,,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A
+2026,M-2026-002,Fase de grupos,G,1,2026-06-12,South Korea,Czechia,2.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A
+2026,M-2026-007,Fase de grupos,G,1,2026-12-06,Canada,Bosnia and Herzegovina,1.0,1.0,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B
+2026,M-2026-008,Fase de grupos,B,1,2026-06-13,Qatar,Switzerland,1.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B
+2026,M-2026-013,Fase de grupos,C,1,2026-06-13,Brazil,Morocco,1.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C
+2026,M-2026-014,Fase de grupos,G,1,2026-06-13,Haiti,Scotland,0.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C
+2026,M-2026-019,Fase de grupos,G,1,2026-06-13,United States,Paraguay,4.0,1.0,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-020,Fase de grupos,D,1,,Australia,Turkey,2.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-025,Fase de grupos,E,1,2026-06-14,Germany,Curacao,7.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E
+2026,M-2026-026,Fase de grupos,G,1,2026-06-14,Ivory Coast,Ecuador,1.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E
+2026,M-2026-031,Fase de grupos,G,1,2026-06-14,Netherlands,Japan,,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F
+2026,M-2026-032,Fase de grupos,F,1,2026-06-15,Sweden,Tunisia,5.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F
+2026,M-2026-037,Fase de grupos,,1,2026-06-15,Belgium,Egypt,1.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G
+2026,M-2026-038,Fase de grupos,G,1,2026-06-15,Iran,New Zealand,2.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G
+2026,M-2026-043,Fase de grupos,G,1,2026-06-15,Spain,Cape Verde,0.0,,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H
+2026,M-2026-044,Fase de grupos,H,1,2026-06-15,Saudi Arabia,Uruguay,1.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H
+2026,M-2026-049,Fase de grupos,,1,2026-06-16,France,Senegal,3.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-050,Fase de grupos,G,1,2026-06-16,Iraq,Norway,1.0,4.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-055,Fase de grupos,G,1,2026-06-16,Argentina,Algeria,3.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J
+2026,M-2026-056,Fase de grupos,,1,2026-06-17,Austria,Jordan,3.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J
+2026,M-2026-061,Fase de grupos,,1,2026-06-17,Portugal,DR Congo,,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
+2026,M-2026-062,Fase de grupos,G,1,2026-06-17,Uzbekistan,Colombia,1.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
+2026,M-2026-067,Fase de grupos,G,1,2026-06-17,England,Croatia,4.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L
+2026,M-2026-003,Fase de grupos,A,2,2026-06-18,Czechia,South Africa,1.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A
+2026,M-2026-004,Fase de grupos,A,2,2026-06-18,Mexico,South Korea,1.0,0.0,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A
+2026,M-2026-009,Fase de grupos,G,2,2026-06-18,Switzerland,Bosnia and Herzegovina,4.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B
+2026,M-2026-010,Fase de grupos,G,2,2026-06-18,Canada,Qatar,6.0,0.0,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B
+2026,M-2026-068,Fase de grupos,,1,2026-06-18,Ghana,Panama,1.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L
+2026,M-2026-015,Fase de grupos,C,2,2026-06-19,Scotland,Morocco,0.0,,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C
+2026,M-2026-016,Fase de grupos,G,2,2026-06-19,Brazil,Haiti,3.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C
+2026,M-2026-021,Fase de grupos,G,2,2026-06-19,United States,Australia,,0.0,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-022,Fase de grupos,D,2,2026-06-20,Turkey,Paraguay,0.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-027,Fase de grupos,E,2,2026-06-20,Germany,Ivory Coast,2.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E
+2026,M-2026-028,Fase de grupos,G,2,2026-06-20,Ecuador,Curacao,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E
+2026,M-2026-033,Fase de grupos,G,2,2026-06-20,Netherlands,Sweden,5.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F
+2026,M-2026-034,Fase de grupos,F,2,2026-06-20,Tunisia,Japan,0.0,4.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F
+2026,M-2026-039,Fase de grupos,G,2,2026-06-21,Belgium,Iran,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G
+2026,M-2026-040,Fase de grupos,G,2,2026-06-21,New Zealand,Egypt,1.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G
+2026,M-2026-045,Fase de grupos,G,2,2026-06-21,Spain,Saudi Arabia,4.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H
+2026,M-2026-046,Fase de grupos,H,2,2026-06-21,Uruguay,Cape Verde,-1.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H
+2026,M-2026-051,Fase de grupos,,2,2026-06-22,France,Iraq,,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-052,Fase de grupos,G,2,2026-06-22,Norway,Senegal,3.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-057,Fase de grupos,G,2,2026-06-22,Argentina,Austria,2.0,,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J
+2026,M-2026-058,Fase de grupos,,2,2026-06-22,Jordan,Algeria,1.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J
+2026,M-2026-063,Fase de grupos,,2,2026-06-23,Portugal,Uzbekistan,5.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
+2026,M-2026-064,Fase de grupos,G,2,2026-06-23,Colombia,DR Congo,1.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
+2026,M-2026-069,Fase de grupos,G,2,2026-06-23,England,Ghana,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L
+2026,M-2026-070,Fase de grupos,,2,2026-06-23,Panama,Croatia,0.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L
+2026,M-2026-005,Fase de grupos,A,3,2026-06-24,Czechia,Mexico,0.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A
+2026,M-2026-006,Fase de grupos,G,3,2026-06-24,South Africa,South Korea,1.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A
+2026,M-2026-011,Fase de grupos,G,3,2026-06-24,Switzerland,Canada,,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B
+2026,M-2026-012,Fase de grupos,B,3,2026-06-24,Bosnia and Herzegovina,Qatar,3.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_B
+2026,M-2026-017,Fase de grupos,C,3,2026-06-25,Scotland,Brazil,0.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C
+2026,M-2026-018,Fase de grupos,G,3,2026-06-25,Morocco,Haiti,4.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_C
+2026,M-2026-023,Fase de grupos,G,3,2026-06-25,Turkey,United States,3.0,2.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-024,Fase de grupos,D,3,,Paraguay,Australia,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-029,Fase de grupos,E,3,2026-06-25,Curacao,Ivory Coast,0.0,,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E
+2026,M-2026-030,Fase de grupos,G,3,2026-06-25,Ecuador,Germany,2.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E
+2026,M-2026-035,Fase de grupos,G,3,2026-06-26,Japan,Sweden,1.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F
+2026,M-2026-036,Fase de grupos,F,3,2026-06-26,Tunisia,Netherlands,1.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F
+2026,M-2026-041,Fase de grupos,G,3,2026-06-26,Egypt,Iran,,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G
+2026,M-2026-042,Fase de grupos,G,3,2026-06-26,New Zealand,Belgium,1.0,5.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G
+2026,M-2026-047,Fase de grupos,G,3,2026-06-26,Cape Verde,Saudi Arabia,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H
+2026,M-2026-048,Fase de grupos,H,3,2026-06-26,Uruguay,Spain,0.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H
+2026,M-2026-053,Fase de grupos,,3,2026-06-26,Norway,France,1.0,4.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-054,Fase de grupos,G,3,2026-06-26,Senegal,Iraq,5.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-059,Fase de grupos,G,3,2026-06-27,Algeria,Austria,3.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J
+2026,M-2026-060,Fase de grupos,,3,2026-06-27,Jordan,Argentina,1.0,3.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J
+2026,M-2026-065,Fase de grupos,,3,2026-06-27,Colombia,Portugal,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
+2026,M-2026-066,Fase de grupos,G,3,2026-06-27,DR Congo,Uzbekistan,3.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
+2026,M-2026-071,Fase de grupos,G,3,2026-06-27,Panama,England,,,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L
+2026,M-2026-072,Fase de grupos,,3,2026-06-27,Croatia,Ghana,2.0,1.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L
+2026,M-2026-019,Fase de grupos,G,1,2026-06-13,United States,Paraguay,4.0,1.0,True,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D
+2026,M-2026-051,Fase de grupos,,2,2026-06-22,France,Iraq,,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I
+2026,M-2026-065,Fase de grupos,,3,2026-06-27,Colombia,Portugal,0.0,0.0,False,,,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K
